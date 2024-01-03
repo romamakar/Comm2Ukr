@@ -7,6 +7,6 @@ Commandos2 Ukr. v.1.20
 
 Перекладено весь текст, що використовується у грі.
 
-Для встановлення скачайте файл DATA.PCK з https://github.com/romamakar/Comm2Ukr/releases/download/release/DATA.PCK та скопіюйте в папку з грою
+Для встановлення скачайте файл comm2_ukr.zip з https://github.com/romamakar/Comm2Ukr/releases/download/zip/comm2_ukr.zip та розпакуйте в папку з грою
 
 Все буде Україна!
