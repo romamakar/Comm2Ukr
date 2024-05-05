@@ -12,12 +12,12 @@ MD04 рпемсбюммъ 5
 3NRY пърсчвх пъднбнцн ялIрю
 3NKW лIяр вепег пIвйс йбюи
 3NIS цюплюрх нярпнбю яюбн
-3NSB внбем. рхуI бахбжI
+3NSB внбем. лнбвюгмI бахбжI
 MSBN мIвмI бнбйх
 RYPR рпемсбюммъ
 3NHL аIкю ялепрэ
-3NCZ гюлнй йнкдхрж
-3NPT уюитнмц
+3NCZ гюлнй йнкдIж
+3NPT цIцюмр с уюитнмгI
 3NBU жIкэ: аIплю
 3NSH яIмюмн б лнпI
 3NPA оюпхф с бнцмI?
@@ -26,24 +26,24 @@ TMCC оюпрхгюмяэйхи пчйгюй
 TBAL йскI
 TPIS оIярнкер#Handgun or pistol
 TCUC мIф
-TRIF цбIмрнбйю
-TRFF ямюиоепяэйю цбхмрIбйю
+TRIF цбхмрIбйю
+TRFF ямюиоепяэйю цбхмрIбйю янчгмхйIб
 TRIG мIлежэйю цбхмрIбйю
-TRFG ямюиоепяэйю цбхмрIбйю
+TRFG мIлежэйю ямюиоепяэйю цбхмрIбйю
 TRIJ ъонмяэйю цбхмрIбйю
 TMET юбрнлюр
 TAGA онбгрх
 TLEV бярюрх
-TSAL бхуIд
+TSAL бхирх
 TBOM анлаю
 TSEN опхлюмйю
 TSON бхйк опхлюмйс#When the decoy is ON, this text appears on the remote control
 TSOF бйк опхлюмйс#When the decoy is OFF, this text appears on the remote control
 TPON йкюбIюрспю бйк
 TPOF йкюбIюрспю бхйк
-TZOD гндIюй
+TZOD внбем
 TMAN бгърх
-TBOA анлаю я до
+TBOA пюдIнйепнбюмю анлаю
 TACT дернмюрнп
 TDSO тнплю янкдюрю
 TDPA тнплю оюрпскэмнцн
@@ -55,14 +55,14 @@ TDRA тнплю ъонмяэйнцн янкдюрю
 TDCI жхбIкэмю ндъц
 TINS бIдбнкIйюрх
 TPIN онлюдю
-TSUM мхпмсрх
+TSUM оIпмсрх
 TEME мю онбепумч
-TEXA нцкъд
+TEXA нцкъмсрх
 TSEL напюрх оюпрхгюмю
 TPEG опхрхямсрхяэ дн ярIмх
 TDES бIдIирх бIд ярIмх
 TBOT окъьйю
-BONA ямндIиме
+BONA окъьйю Iг ямндIимхл
 TREP Iмярпслемр
 TLIB йюпрю
 TCHA
@@ -73,7 +73,7 @@ TMAP йюпрю
 TINT Iмтн
 TSEG якIдсбюрх
 TPAR гюкхьхрхяэ
-TIRA ирх дн
+TIRA Iрх дн
 TAGC онбгрх
 TLEC бярюрх
 TMAL опхрхямсрхяэ
@@ -116,17 +116,17 @@ VALL нцнпнфю
 CABL йюаекэ
 CAMI бюмрюфIбйю
 TANQ рюмй
-ZODI гндIюй
+ZODI внбем
 WILL бIккIя
 CANE цюплюрю
 TVEN бIймн
 IT00 рх ме бхйнмюб сяI гюбдюммъ
-IT01 бяI кчдх онбхммI брейрх
+IT01 бяI аIижI онбхммI брейрх
 IT02 ндхм г аIижIб гюцхмсб
 IT03 бяI аIижI гюцхмскх
 IT04 рх онбхмем брейрх мю опюбхкэмнлс рпюмяонпрI
-IT05 рх бхйнмюб сяI гюбдюммъ, юке кчдх гюцхмскх
-IT06 рпюмяонпр асб гмхыемхи
+IT05 рх бхйнмюб сяI гюбдюммъ, юке йIкэйю аIижIб гюцхмскн
+IT06 рпюмяонпр дкъ бревI асб гмхыемхи
 IT07 лIяIъ гюбепьемю
 IT08 оепелнцю
 IT09 реае оепелнцкх
@@ -156,7 +156,7 @@ ACCE опхимърх
 MMIS гюбдюммъ
 LSGA гаепефемI Iцпх
 STAR ярюпр
-MING лемч с цпI
+MING лемч цпх
 EXGA бхирх г цпх
 LQSG ьбхдйе гюбюмрюфеммъ
 SQSG ьбхдйе гаепIцюммъ
@@ -173,7 +173,7 @@ VOL_ цсвмIярэ
 MOPT мюкюьрсбюммъ
 OPT_ мюкюьрсбюммъ
 VOLM цсвмIярэ лсгхйх
-VOLE цсвмIярэ гбсйс
+VOLE цсвмIярэ гбсйIб
 VOLG гюцюкэмю цсвмIярэ
 TENT дбепI
 TOUT дбепI
@@ -188,9 +188,9 @@ ASCO гю пскэ
 ASAR гю аюьрс
 ESCO кчй
 INEX люьхмю бяепедхмI/ггнбмI
-BOTI юоревйю
+BOTI яюмIрюпмю яслйю
 TENA йсяювйх
-SOPL оюъкэмю кюлою
+SOPL оюкэмхй
 ALAM йнкчвхи дпIр
 CCOM гекемхи аепер
 CART яюоеп
@@ -210,15 +210,15 @@ SIGU идх гю лмнч
 QUED ярIи
 BAZO аюгсйю
 GNDA цпюмюрю
-PRIS аIхмнйкэ
+PRIS аIмнйкэ
 NGRA цпюмюрю N#
 NTRA днгх
 CAJA йнпнайю
 MINA лIмю
-BUCE юйбюкюмц
+BUCE яонпъдфеммъ дкъ дюибIмцс
 DETE лIмньсйюв
 NINO дхрхмю
-GANZ бIдлхвйю
+GANZ бIдлхвйх
 MINS оIдбндмю лIмю
 RCUE гбепмсрх ьхч
 FACH ярIмю
@@ -238,7 +238,7 @@ GRAB гюохя#Record interface commands
 PLAY цпюрх#Play recorded interface commands
 NODI (м/д)#Unavailable multiplayer connection type (NOT/AVAILABLE)
 CERR (гюйпхрн)#Refers to a closed multiplayer session
-UNIR бхирх#Join a multiplayer session
+UNIR днксвхрхяэ#Join a multiplayer session
 CREA ярбнпхрх#Create a multiplayer session
 REFR нмнбхрх#Refresh network sessions list
 EMPE ярюпр#Start multiplayer game
@@ -271,12 +271,12 @@ DET3 бхянйю#Detail
 MVOK нй
 EMPJ бIдйхмсрх
 CDPR янаювхи йнпл
-CPNA нрпюбкемхи йнпл
+CPNA янаювхи йнпл Iг ямндIимхл
 CDPZ пхамхи йнпл
 TIBU юйскю
 ARPO цюпосм
 TABC оювйю яхцюпер
-MINC опнр-рюмй лIмю
+MINC опнрхрюмйнбю лIмю
 PEGB бйпюярх б янкдюрю
 ORO_ гнкнрн
 BPEC аепец
@@ -287,7 +287,7 @@ VNAC яуIдмхи ндъц
 PARR оюрпскэмхи йюреп
 BARC внбем
 CAFU яеит
-CARF оюрпнмх дкъ ямюиоеп. цбхмр.
+CARF оюрпнмх дкъ ямюио. цбхмрIбйх
 CARB ямюпъдх дкъ аюгсйх
 CARP оюрпнмх дкъ оIярнкерю
 CARR оюрпнмх дкъ цбхмрIбйх
@@ -297,19 +297,19 @@ ESCF сйпхрръ
 INTE оепелхйюв
 POST ярнбо
 RADI пюдIн
-ZERO мскэ
+ZERO гепн
 KIEM цIдпнокюм
-ESEN лнрсгйюмю дпюахмю
-ESSA дпюахмю г опнярхпюдкю
-AMOR гбъгюрх
+ESEN лнрсгйнбю дпюахмю
+ESSA дпюахмю г опнярхпюдек
+AMOR гб'ъгюрх
 PORR ярнбо
 MORS лнпф
 PNGN оIмцбIм
-CEPO оюярйю
+CEPO йюойюм
 PALA кноюрю
 TPFS ълю-оюярйю
-TPCB йюойюм
-CBTP пнгръфйю
+TPCB йнрсьйю
+CBTP йнрсьйю
 CMAD депебъмхи ъыхй
 CMET гюкIгмхи ъыхй
 CORO гнкнрхи ъыхй
@@ -328,7 +328,7 @@ TSDK ядйтг 231#verificar si es el adecuado
 ANTA гемIрйю ткюй
 CROC йпнйндхк
 ENIG емIцлю
-CANA гемIрйю
+CANA цюплюрю оон
 MUNE яоюий
 AMTE юбрнлюр#es la ametralladora estАtica, poner el nombre tИcnico
 DOEN йндх емIцлх
@@ -337,11 +337,11 @@ DIFF мнплюкэмн
 DIFN бюфйн
 DIFD дсфе бюфйн
 APAL пефхл юрюйх
-PBAJ мхгэйю
-PMED яепедмъ
-PALT бхянйю
-ACTI оскэр дй
-LACO уюпв
+PBAJ мхгэй
+PMED яепедм
+PALT бхянй
+ACTI оскэр опхлюмйх
+LACO йнмяепбх
 MECA ндъц пнаIрмхйю
 MARI ндъц люрпняю
 MINV окюм брнпцеммъ
@@ -354,11 +354,10 @@ RNIN мелю гбюммъ
 RSOL пъднбхи
 RCAB кеиремюмр
 ROFI нтIжеп
-RRAS опюонпыхй
+RRAS янкдюр лнкндьнцн пюмцс
 
 ANUL гапнъ бIдясрмъ
 ARMZ Z юбрнлюр
-ARMA гапнъ
 APIS оIярнкер
 A2PI дбю оIхярнкерю
 AFUS цбхмрIбйю
@@ -375,7 +374,7 @@ SILL йпIякн
 
 TDMI вюя гюбдюммъ
 TABU рюасперйю
-MPER лIпъч ьбхдйндIч
+MPER навхякчч ьбхдйндIч
 PIST онпюдх
 OBJE гюбдюммъ
 SOBJ брнпхммI гюбдюммъ
@@ -436,21 +435,21 @@ LCHM гюосяй
 MSA6 наIдммIи ярIк
 NARC ямндIиме
 
-COZO бгърх гндIюй
+COZO бгърх внбем
 
 NTRR днонлнцю
 
 ASBU бхцкъмсрх#...mientras se bucea y se asoma al exterior
-DSBU мхпмсрх#...la vista vuelva debajo del agua
+DSBU гюмспхрхяэ#...la vista vuelva debajo del agua
 
 LAIN онвюрх мюярсо#...Tooltip del botСn de la radio en Ryan
 LCEP гюдюрх рнвйс бхяюдйх
 ESPE дгепйюкн
-GARF цюй
+GARF цюй-йIьйю
 BOHU дхлнбю цпюмюрю
 
 TDNA реокхи ндъц янчгмхйIб
-GNCH цюй
+GNCH цюй-йIьйю
 TBGA цюгнбю цпюмюрю
 
 MT01 рпемсбюкэмхи рюаIп 1
@@ -459,8 +458,8 @@ MT03 рпемсбюкэмхи рюаIп 3
 MT04 рпемсбюкэмхи рюаIп 4
 MT05 рпемсбюкэмхи рюаIп 5
 
-DESP TAKE OFF#... para el globo
-ATER гелкъ 
+DESP оIдмърхяэ#... para el globo
+ATER опхгелкхрхяэ
 ROEN жхкIмдпх емIцлх
 
 PJRO орюу
@@ -484,20 +483,20 @@ RACT
 # Textos de la pantalla del menu de misiones
 RANG гбюммъ
 MERI мюцнпндю
-PREV рIкэйх оепеднцкъд
+PREV рIкэйх оепецкъд
 KEYE г оюпнкел
 KERR оюпнкэ мебIпмши
 
 R000 мелю
-R001 лнк. етпеирнп
-R002 етпеирнп
+R001 лнк. йюопюк
+R002 йюопюк
 R003 яепфюмр
-R004 ярюпьхмю
+R004 йбюпрхплеияреп
 R005 кеиремюмр
 R006 йюоIрюм
 R007 люинп
-R008 оIдонкйнбмхй
-R009 оIкйнбмхй
+R008 онкйнбмхй
+R009 апхцюдхп
 R010 цемепюк
 R011 текэдлюпьюк
 AVIO кецйхи кIрюй
@@ -507,27 +506,27 @@ DOMA гюйнднбюмю йюпрю
 DOJU окюм юрюйх мю оюпхф# Planes para la destruccion de Paris
 GNES онкйнбмхй янчгмхйIб
 GRKA пъднбхи янчгмхйIб
-JABA йюлепю
+JABA рчпелмю йкIрйю
 CIVI жхбIкэмхи
 PKEY мюрхямIрэ мю йкюбIьс
-UKEY йкюбIью бфе бхйнпхярюмю, бх блебмемI?
-IKEY мебIпмю ймнойю
+UKEY йкюбIью бфе бхйнпхярюмю, бх боебмемI?
+IKEY мебIпмю йкюбIью
 
 MORI тпюмжсгэйI оюпрхгюмх
-TASK апнмебхй
-CMAR ондбндмхй янчгмхй# marinero submarino aliado
-CMAO нтIж оIдб янчгмхй# oficial submarino aliado
-CMAC йюоIрюм оIдб янчгмхй# capitan submarino aliado
+TASK апнмэнбхй
+CMAR люрпня ондбндмхй янчгмхйIб# marinero submarino aliado
+CMAO нтIжеп оIдбндмхй янчгмхйIб# oficial submarino aliado
+CMAC йюоIрюм оIдбндмхй янчгмхйIб# capitan submarino aliado
 BPIR оIпюмэъ
-COAL гбъгйнбхи янчгмхйIб
+COAL гб'ъгйнбхи янчгмхйIб
 JATO рчпелмхй
 COCH юбрн
 ZONO внбем
 CPIL янчгмхй оIкнр
-CCHB янчгмхй цпюмюрнлервхй
+CCHB янчгмхй цпюмюрнлермхй
 PDIS янчгмхй онкнмемхи
 RFRA бнпнфхи ямюиоеп
-RGRA цпюмюрнлервхй
+RGRA цпюмюрнлермхй
 BAHU пърсбюкэмю аюпфю
 AVZE бхмхысбюв
 PRAL янчгмхй онкнмемхи
@@ -541,7 +540,7 @@ PZG2 текэдлюпьюк деятекк # Mariscal de campo Desfell (esta cortado pq no entra e
 PZG3 цемепюк-люинп псднкэт
 SRCL янкдюр г йкчвюлх
 ASGE юдчрюмр цемепюкю
-GEJE гюлйнл вюярхмх
+GEJE цнкнбмнйнлюмдсбюв
 MATI рхпюм
 MTOV аюмдепю ялсгI
 NASI ме опхгмювемн
@@ -552,6 +551,8 @@ DETO дернмюрнп
 SWHI бIдосярхрх бIяйI
 PDIN гюохр мю налIм
 PDCA нвIйсбюммъ бIдонбIдI мю гюохр
+ARMA гапнъ
+
 
 BON1  анмся лIяIъ 1
 BON2  анмся лIяIъ 2
@@ -565,4 +566,4 @@ BON9  анмся лIяIъ 9
 
 DETK бхасуIбйю
 ICD1 бярюбре дхяй г цпнч йнлюмдня 2
-ICD2 ме опюбхкэмхи дхяй
+ICD2 меопюбхкэмхи дхяй
