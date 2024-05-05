@@ -1,5 +1,5 @@
-MD10 делн лхяIъ - IмтIкэрпюжIъ
-MD11 делн лхяIъ - брнпцмеммъ
+MD10 делн лIяIъ - IмтIкэрпюжIъ
+MD11 делн лIяIъ - брнпцмеммъ
 MD00 рпемсбюммъ 1
 MD01 рпемсбюммъ 2
 MD02 рпемсбюммъ 3
@@ -12,7 +12,7 @@ MD04 рпемсбюммъ 5
 3NRY пърсчвх пъднбнцн ялIрю
 3NKW лIяр вепег пIвйс йбюи
 3NIS цюплюрх нярпнбю яюбн
-3NSB ярюкэмI юйскх
+3NSB внбем. рхуI бахбжI
 MSBN мIвмI бнбйх
 RYPR рпемсбюммъ
 3NHL аIкю ялепрэ
@@ -121,7 +121,7 @@ WILL бIккIя
 CANE цюплюрю
 TVEN бIймн
 IT00 рх ме бхйнмюб сяI гюбдюммъ
-IT01 бяе кчдх онбхммI брейрх
+IT01 бяI кчдх онбхммI брейрх
 IT02 ндхм г аIижIб гюцхмсб
 IT03 бяI аIижI гюцхмскх
 IT04 рх онбхмем брейрх мю опюбхкэмнлс рпюмяонпрI
@@ -172,7 +172,7 @@ DEFA гю гюлнбвсбюммъл#User name default
 VOL_ цсвмIярэ
 MOPT мюкюьрсбюммъ
 OPT_ мюкюьрсбюммъ
-VOLM цсвмIярэ лсгшйх
+VOLM цсвмIярэ лсгхйх
 VOLE цсвмIярэ гбсйс
 VOLG гюцюкэмю цсвмIярэ
 TENT дбепI
@@ -224,7 +224,7 @@ RCUE гбепмсрх ьхч
 FACH ярIмю
 JERI ьопхж
 ENTR гюйноюрх
-PAGO рнмйю яремю
+PAGO рнмйю ярIмю
 ATON нцксьхрх
 GOLP ярсйюрх
 ATAC бйк пефхл юрюйх
@@ -238,7 +238,7 @@ GRAB гюохя#Record interface commands
 PLAY цпюрх#Play recorded interface commands
 NODI (м/д)#Unavailable multiplayer connection type (NOT/AVAILABLE)
 CERR (гюйпхрн)#Refers to a closed multiplayer session
-UNIR бIирх#Join a multiplayer session
+UNIR бхирх#Join a multiplayer session
 CREA ярбнпхрх#Create a multiplayer session
 REFR нмнбхрх#Refresh network sessions list
 EMPE ярюпр#Start multiplayer game
@@ -317,7 +317,7 @@ ESMI дхбхрхяэ
 ESIR боепед
 TRNV реокхи ндъц
 INTR днохрюрх#interrogar
-AMPO нрпюбю
+AMPO нрпсрю
 LLAV йкчв
 ELEF якнм
 SLSH пнцюрйю
@@ -337,9 +337,9 @@ DIFF мнплюкэмн
 DIFN бюфйн
 DIFD дсфе бюфйн
 APAL пефхл юрюйх
-PBAJ мхгэй
-PMED яепедм
-PALT бхянй
+PBAJ мхгэйю
+PMED яепедмъ
+PALT бхянйю
 ACTI оскэр дй
 LACO уюпв
 MECA ндъц пнаIрмхйю
@@ -381,7 +381,7 @@ OBJE гюбдюммъ
 SOBJ брнпхммI гюбдюммъ
 OPIS оIдйюгйх
 CRAD пюдIн йндх
-TUXX опнундфеммъ рпемхмсбюмэ
+TUXX опнундфеммъ рпемсбюмэ
 TU01 йюпрю
 TU02 аюгнбе оепелIыеммъ
 TU03 Iмрептеия I
@@ -541,7 +541,7 @@ PZG2 текэдлюпьюк деятекк # Mariscal de campo Desfell (esta cortado pq no entra e
 PZG3 цемепюк-люинп псднкэт
 SRCL янкдюр г йкчвюлх
 ASGE юдчрюмр цемепюкю
-GEJE гюлйнл вюярхYB
+GEJE гюлйнл вюярхмх
 MATI рхпюм
 MTOV аюмдепю ялсгI
 NASI ме опхгмювемн
