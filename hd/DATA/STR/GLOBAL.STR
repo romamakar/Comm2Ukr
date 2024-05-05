@@ -1,0 +1,568 @@
+MD10 делн лIяIъ - IмтIкэрпюжIъ
+MD11 делн лIяIъ - брнпцмеммъ
+MD00 рпемсбюммъ 1
+MD01 рпемсбюммъ 2
+MD02 рпемсбюммъ 3
+MD03 рпемсбюммъ 4
+MD04 рпемсбюммъ 5
+3N00 пърсчвх пъднбнцн ялIрю
+3N01 пърсчвх пъднбнцн ялIрю
+3NPE TESTBED 1
+3NP2 TESTBED 2
+3NRY пърсчвх пъднбнцн ялIрю
+3NKW лIяр вепег пIвйс йбюи
+3NIS цюплюрх нярпнбю яюбн
+3NSB внбем. рхуI бахбжI
+MSBN мIвмI бнбйх
+RYPR рпемсбюммъ
+3NHL аIкю ялепрэ
+3NCZ гюлнй йнкдхрж
+3NPT уюитнмц
+3NBU жIкэ: аIплю
+3NSH яIмюмн б лнпI
+3NPA оюпхф с бнцмI?
+TMOC пчйгюй
+TMCC оюпрхгюмяэйхи пчйгюй
+TBAL йскI
+TPIS оIярнкер#Handgun or pistol
+TCUC мIф
+TRIF цбIмрнбйю
+TRFF ямюиоепяэйю цбхмрIбйю
+TRIG мIлежэйю цбхмрIбйю
+TRFG ямюиоепяэйю цбхмрIбйю
+TRIJ ъонмяэйю цбхмрIбйю
+TMET юбрнлюр
+TAGA онбгрх
+TLEV бярюрх
+TSAL бхуIд
+TBOM анлаю
+TSEN опхлюмйю
+TSON бхйк опхлюмйс#When the decoy is ON, this text appears on the remote control
+TSOF бйк опхлюмйс#When the decoy is OFF, this text appears on the remote control
+TPON йкюбIюрспю бйк
+TPOF йкюбIюрспю бхйк
+TZOD гндIюй
+TMAN бгърх
+TBOA анлаю я до
+TACT дернмюрнп
+TDSO тнплю янкдюрю
+TDPA тнплю оюрпскэмнцн
+TDCA тнплю яепфюмрю
+TDJA ъонмяэйю тнплю
+TDOF тнплю нтIжепю
+TDAL тнплю юдлIпюкю
+TDRA тнплю ъонмяэйнцн янкдюрю
+TDCI жхбIкэмю ндъц
+TINS бIдбнкIйюрх
+TPIN онлюдю
+TSUM мхпмсрх
+TEME мю онбепумч
+TEXA нцкъд
+TSEL напюрх оюпрхгюмю
+TPEG опхрхямсрхяэ дн ярIмх
+TDES бIдIирх бIд ярIмх
+TBOT окъьйю
+BONA ямндIиме
+TREP Iмярпслемр
+TLIB йюпрю
+TCHA
+TOJO онке гнпс
+TGRU йнлоюя
+TCAM йюлепю
+TMAP йюпрю
+TINT Iмтн
+TSEG якIдсбюрх
+TPAR гюкхьхрхяэ
+TIRA ирх дн
+TAGC онбгрх
+TLEC бярюрх
+TMAL опхрхямсрхяэ
+TGRA цпюмюрю
+TSIL ябхярнй
+TASO дхбхрхяэ с бIймн
+TDIV жIкхрхяэ г бIймю
+TSZO бхкIгрх г внбмю
+TPAZ мнпл онбедIмйю
+TAGR юцпея онбедIмйю
+TKAM йюлIйюдге онбедIмйю
+TGIR наепрюрх
+TLIA бIдлIмхрх бхаIп оюпрхгюмю
+TVIG опхйпхбюрх ярнъвх
+TAPT опхйпхбюрх кефювх
+TAPA опхйпхбюрх г йнкIмю
+TAPV опхйпхбюрх г бIймю
+ACOM гекемхи аепер
+AART яюоеп
+AFRN ямюиоеп
+ACON бндIи
+ALAN дюибеп
+AESP ьохцсм
+ANAT мюрюкъ
+ARAT йпюдIи
+AWHI бIяйI
+AWIL бIкянм#The shipwrecked sailor from the island
+MESC кIгрх
+MENC кIгрх
+ALIA янчгмхй
+ALIC оюпрхгюм
+RYAN ялIр
+WHIS бIяйI
+DBMN днаеплюм
+SOLD янкдюр
+PATR янкдюр
+METR янкдюр
+ESCL кIгрх
+VALL нцнпнфю
+CABL йюаекэ
+CAMI бюмрюфIбйю
+TANQ рюмй
+ZODI гндIюй
+WILL бIккIя
+CANE цюплюрю
+TVEN бIймн
+IT00 рх ме бхйнмюб сяI гюбдюммъ
+IT01 бяI кчдх онбхммI брейрх
+IT02 ндхм г аIижIб гюцхмсб
+IT03 бяI аIижI гюцхмскх
+IT04 рх онбхмем брейрх мю опюбхкэмнлс рпюмяонпрI
+IT05 рх бхйнмюб сяI гюбдюммъ, юке кчдх гюцхмскх
+IT06 рпюмяонпр асб гмхыемхи
+IT07 лIяIъ гюбепьемю
+IT08 оепелнцю
+IT09 реае оепелнцкх
+IT10 лIяIъ опнбюкемю
+ACPU оюпрхгюм
+ASCR оюпрхгюм
+MMAI цнкнбме лемч
+SPLA ндхм цпюбежэ
+MPLY цпю б лепефI
+OPTI мюкюьрсбюммъ
+CRED юбрнпх
+TUTO рпемсбюммъ
+EXIT бхуIд
+MPLA лемч цпюбжъ
+MJRE ---MENU JUGADORES RED---
+MCON ---MENU CONEXIONES RED---
+MSES ---MENU SESIONES RED---
+MCSE ---MENU CREAR SESION RED---
+MFSR ---MENU FORMAR SESION RED---
+MFPV ---MENU FORMAR PARTIDA RED VERSUS---
+MFPC ---MENU FORMAR PARTIDA RED COOPERATIVA---
+MPLS цпю б лепефI
+DELE бхдюкхрх
+NEW_ мнбхи
+EDIT педюцсбюрх
+ACCE опхимърх
+MMIS гюбдюммъ
+LSGA гаепефемI Iцпх
+STAR ярюпр
+MING лемч с цпI
+EXGA бхирх г цпх
+LQSG ьбхдйе гюбюмрюфеммъ
+SQSG ьбхдйе гаепIцюммъ
+RSTA мюмнбн
+LSGS гюбюмрюфхрх
+STGA гаепецрх
+MSDA лемч гаепефемэ
+MSGA лемч гаепефемэ
+SAVE гаепецрх
+NUSE мнбхи цпюбежэ#Cuando creas un usuario nuevo el nombre por defecto
+UNUS осярхи якнр
+DEFA гю гюлнбвсбюммъл#User name default
+VOL_ цсвмIярэ
+MOPT мюкюьрсбюммъ
+OPT_ мюкюьрсбюммъ
+VOLM цсвмIярэ лсгхйх
+VOLE цсвмIярэ гбсйс
+VOLG гюцюкэмю цсвмIярэ
+TENT дбепI
+TOUT дбепI
+TPUE дбепI
+RROL гюохя
+CONT дюкI
+POIN нвнй
+TRAM ярпханй
+ACCA гюкIгрх
+VENT бIймн
+ASCO гю пскэ
+ASAR гю аюьрс
+ESCO кчй
+INEX люьхмю бяепедхмI/ггнбмI
+BOTI юоревйю
+TENA йсяювйх
+SOPL оюъкэмю кюлою
+ALAM йнкчвхи дпIр
+CCOM гекемхи аепер
+CART яюоеп
+CFCT ямюиоеп
+CCTR бндIи
+CLCH дюибеп
+CSPY ьохцсм
+CNAT мюрюкъ
+CRAT йпюдIи
+CWHI бIяйI
+CWIL бIкянм#The shipwrecked sailor from the island
+CCHU янчгмхй
+ASCE кIтр
+MISI ябъыемхй
+LANZ бнцмелер
+SIGU идх гю лмнч
+QUED ярIи
+BAZO аюгсйю
+GNDA цпюмюрю
+PRIS аIхмнйкэ
+NGRA цпюмюрю N#
+NTRA днгх
+CAJA йнпнайю
+MINA лIмю
+BUCE юйбюкюмц
+DETE лIмньсйюв
+NINO дхрхмю
+GANZ бIдлхвйю
+MINS оIдбндмю лIмю
+RCUE гбепмсрх ьхч
+FACH ярIмю
+JERI ьопхж
+ENTR гюйноюрх
+PAGO рнмйю ярIмю
+ATON нцксьхрх
+GOLP ярсйюрх
+ATAC бйк пефхл юрюйх
+NATA бхйк пефхл юрюйх
+CSER яепIимхи йюаекэ
+CMOD лндел
+CIPX IPX
+CTCL TCP/IP (LAN)
+CTCI TCP/IP (Iмрепмер)
+GRAB гюохя#Record interface commands 
+PLAY цпюрх#Play recorded interface commands
+NODI (м/д)#Unavailable multiplayer connection type (NOT/AVAILABLE)
+CERR (гюйпхрн)#Refers to a closed multiplayer session
+UNIR бхирх#Join a multiplayer session
+CREA ярбнпхрх#Create a multiplayer session
+REFR нмнбхрх#Refresh network sessions list
+EMPE ярюпр#Start multiplayer game
+CHAT вюр#Send a chat message.
+SESD яеяIъ#To construct the default name for multiplayer session 
+COOP йнноепюрхб#Multiplayer type
+VERS дбнаIи#Multiplayer type
+MNOD (м/д)#Refers to a mission which is not playable because is not done with in single player mode
+RALI янчгмхйх#For the "choose side" button text in the versus mode multiplayers
+RALE мIлжI#For the "choose side" button text in the versus mode multiplayers
+MUTU онпюгйю! бяI янкдюрх гюцхмскх#Versus mode mission end
+MUSU оепелнцю! бяI бнпнцх гмхыемI#Versus mode mission end
+ALOM бяегмючвхи мIлежэ#Versus mode option
+RLAN LAN#TCP/IP type
+RINT Iмрепмер#TCP/IP type
+VOPT бIден мюкюьрсбюммъ
+SOPT мюкюьрсбюммъ гбсйс
+GOPT мюкюьрсбюммъ цпх
+MOPS лемч ножIи гбсйс
+MOPV лемч ножIи бIден
+MOPJ лемч ножIи цпх
+R640 640x480
+R800 800x600
+R024 1024x768
+R280 1280x1024
+DET0 дсфе мхгэйю#Detail
+DET1 мхгэйю#Detail
+DET2 яепедмъ#Detail
+DET3 бхянйю#Detail
+MVOK нй
+EMPJ бIдйхмсрх
+CDPR янаювхи йнпл
+CPNA нрпюбкемхи йнпл
+CDPZ пхамхи йнпл
+TIBU юйскю
+ARPO цюпосм
+TABC оювйю яхцюпер
+MINC опнр-рюмй лIмю
+PEGB бйпюярх б янкдюрю
+ORO_ гнкнрн
+BPEC аепец
+VINV бIймн Iмбемрюпъ
+BARR анвйю
+VNAT мIлежэйхи ндъц
+VNAC яуIдмхи ндъц
+PARR оюрпскэмхи йюреп
+BARC внбем
+CAFU яеит
+CARF оюрпнмх дкъ ямюиоеп. цбхмр.
+CARB ямюпъдх дкъ аюгсйх
+CARP оюрпнмх дкъ оIярнкерю
+CARR оюрпнмх дкъ цбхмрIбйх
+CARZ оюрпнмх дкъ юбрнлюрю
+ESCD сйпхрръ
+ESCF сйпхрръ
+INTE оепелхйюв
+POST ярнбо
+RADI пюдIн
+ZERO мскэ
+KIEM цIдпнокюм
+ESEN лнрсгйюмю дпюахмю
+ESSA дпюахмю г опнярхпюдкю
+AMOR гбъгюрх
+PORR ярнбо
+MORS лнпф
+PNGN оIмцбIм
+CEPO оюярйю
+PALA кноюрю
+TPFS ълю-оюярйю
+TPCB йюойюм
+CBTP пнгръфйю
+CMAD депебъмхи ъыхй
+CMET гюкIгмхи ъыхй
+CORO гнкнрхи ъыхй
+ESMI дхбхрхяэ
+ESIR боепед
+TRNV реокхи ндъц
+INTR днохрюрх#interrogar
+AMPO нрпсрю
+LLAV йкчв
+ELEF якнм
+SLSH пнцюрйю
+TRPR ндъц онкнмемнцн
+CBLL йIмэ
+QBEL йсаекэбюцем
+TSDK ядйтг 231#verificar si es el adecuado
+ANTA гемIрйю ткюй
+CROC йпнйндхк
+ENIG емIцлю
+CANA гемIрйю
+MUNE яоюий
+AMTE юбрнлюр#es la ametralladora estАtica, poner el nombre tИcnico
+DOEN йндх емIцлх
+SASE онябIдвеммъ
+DIFF мнплюкэмн
+DIFN бюфйн
+DIFD дсфе бюфйн
+APAL пефхл юрюйх
+PBAJ мхгэйю
+PMED яепедмъ
+PALT бхянйю
+ACTI оскэр дй
+LACO уюпв
+MECA ндъц пнаIрмхйю
+MARI ндъц люрпняю
+MINV окюм брнпцеммъ
+TELE рекетнм
+
+ARIO леакI
+VEHL рпюмяонпр
+
+RNIN мелю гбюммъ
+RSOL пъднбхи
+RCAB кеиремюмр
+ROFI нтIжеп
+RRAS опюонпыхй
+
+ANUL гапнъ бIдясрмъ
+ARMZ Z юбрнлюр
+ARMA гапнъ
+APIS оIярнкер
+A2PI дбю оIхярнкерю
+AFUS цбхмрIбйю
+ARIF ямюиоепяэйю цбхмрIбйю
+ABAZ аюгсйю
+AARP цюпосм
+AGRA цпюмюрю
+
+SASI иде г онгхжIи
+SSAL рюй
+NSAL мI
+
+SILL йпIякн
+
+TDMI вюя гюбдюммъ
+TABU рюасперйю
+MPER лIпъч ьбхдйндIч
+PIST онпюдх
+OBJE гюбдюммъ
+SOBJ брнпхммI гюбдюммъ
+OPIS оIдйюгйх
+CRAD пюдIн йндх
+TUXX опнундфеммъ рпемсбюмэ
+TU01 йюпрю
+TU02 аюгнбе оепелIыеммъ
+TU03 Iмрептеия I
+TU04 наярефеммъ опхлIыемэ
+TU05 Iмрептеия II
+TU06 гекемхи аепер I
+TU07 гекемхи аепер II
+TU08 гекемхи аепер III
+TU09 йпюдIи I
+TU10 йпюдIи II
+TU11 йпюдIи III
+TU12 ямюиоеп I
+TU13 ямюиоеп II
+TU14 яюоеп I
+TU15 яюоеп II
+TU16 янчгмхйх
+
+CAMA кIфйн
+LADI цюбйюрх
+
+#....VENTANAS de error y/o aviso DE RED
+COLO гбъгнй ярпювемн
+ESPL нвIйсч цпюбжIб
+ESMU нвIйсч дсфе днбцн... рюил юср...гбъгнй брпювемн
+NTAE ме бяI йнлюмдня опхгмювемI
+AJSC ме бяI цпюбжI бхапюкх йнлюмдня
+GAPA оюсгю
+VJUI меопюбхкэмю бепяIъ цпх
+NQLO ме с бяIу цпюбжIб опхясрмI гаепефеммъ
+ANJS ндхм г цпюбжIб ме цпюб б жч лIяIч
+INIP ббедх IP юдпеяс
+ECON онлхкйю гбъгйс
+IPIN меопюбхкэмю IP юдпеяю
+
+
+#...red...
+CCHA онбIднлкеммъ:#...lo que aparece cuando estas escribiendo una linea de chat en el juego
+BALE мIлежэ#...texto para indicar el bando de cada jugador en versus
+BALI янчгмхй#...texto para indicar el bando de cada jugador en versus
+RYV1 ***guanonguan (versustest)***
+RYV2 ***dos mogolloncitos (versustest)***
+RYV3 ***dos mogollones(versustest)***
+RYV4 ***pseudo ry (versustest)***
+
+#TEXTO DE LOS BOTONES DEL INVENTARIO
+BIIN налIм
+BIEX нцкъд
+BISA бхирх
+BIUS бхйнпхярюрх
+
+LCHM гюосяй
+MSA6 наIдммIи ярIк
+NARC ямндIиме
+
+COZO бгърх гндIюй
+
+NTRR днонлнцю
+
+ASBU бхцкъмсрх#...mientras se bucea y se asoma al exterior
+DSBU мхпмсрх#...la vista vuelva debajo del agua
+
+LAIN онвюрх мюярсо#...Tooltip del botСn de la radio en Ryan
+LCEP гюдюрх рнвйс бхяюдйх
+ESPE дгепйюкн
+GARF цюй
+BOHU дхлнбю цпюмюрю
+
+TDNA реокхи ндъц янчгмхйIб
+GNCH цюй
+TBGA цюгнбю цпюмюрю
+
+MT01 рпемсбюкэмхи рюаIп 1
+MT02 рпемсбюкэмхи рюаIп 2
+MT03 рпемсбюкэмхи рюаIп 3
+MT04 рпемсбюкэмхи рюаIп 4
+MT05 рпемсбюкэмхи рюаIп 5
+
+DESP TAKE OFF#... para el globo
+ATER гелкъ 
+ROEN жхкIмдпх емIцлх
+
+PJRO орюу
+TBRT *** A VER QUE NOMBRE SE LE PONE A LA BOMBA DE LA ISLA
+FLAU рпсаю бIкянмю
+MONO гнкнрю ярюрсъ
+
+LAMA дсунбмхи кIдеп
+MAQU лндекэ#... donde alec guinnes indica donde colocar las bombas
+
+GLOB йскъ
+NABO вюярхмю ябIркхмх
+
+CONF оIдрбепдхрх
+
+MECO ьхтпнбюме онбIднлкеммъ
+
+PROM бх нрпхлюкх гбюммъ:
+RACT 
+
+# Textos de la pantalla del menu de misiones
+RANG гбюммъ
+MERI мюцнпндю
+PREV рIкэйх оепеднцкъд
+KEYE г оюпнкел
+KERR оюпнкэ мебIпмши
+
+R000 мелю
+R001 лнк. етпеирнп
+R002 етпеирнп
+R003 яепфюмр
+R004 ярюпьхмю
+R005 кеиремюмр
+R006 йюоIрюм
+R007 люинп
+R008 оIдонкйнбмхй
+R009 оIкйнбмхй
+R010 цемепюк
+R011 текэдлюпьюк
+AVIO кецйхи кIрюй
+DOCO ймхцю йндIб
+DORE гпюгнй йндIб
+DOMA гюйнднбюмю йюпрю
+DOJU окюм юрюйх мю оюпхф# Planes para la destruccion de Paris
+GNES онкйнбмхй янчгмхйIб
+GRKA пъднбхи янчгмхйIб
+JABA йюлепю
+CIVI жхбIкэмхи
+PKEY мюрхямIрэ мю йкюбIьс
+UKEY йкюбIью бфе бхйнпхярюмю, бх блебмемI?
+IKEY мебIпмю ймнойю
+
+MORI тпюмжсгэйI оюпрхгюмх
+TASK апнмебхй
+CMAR ондбндмхй янчгмхй# marinero submarino aliado
+CMAO нтIж оIдб янчгмхй# oficial submarino aliado
+CMAC йюоIрюм оIдб янчгмхй# capitan submarino aliado
+BPIR оIпюмэъ
+COAL гбъгйнбхи янчгмхйIб
+JATO рчпелмхй
+COCH юбрн
+ZONO внбем
+CPIL янчгмхй оIкнр
+CCHB янчгмхй цпюмюрнлервхй
+PDIS янчгмхй онкнмемхи
+RFRA бнпнфхи ямюиоеп
+RGRA цпюмюрнлервхй
+BAHU пърсбюкэмю аюпфю
+AVZE бхмхысбюв
+PRAL янчгмхй онкнмемхи
+JEPA йнлюмдхп оюрпскъ
+PATU оюрпскэмхи
+CTEX лIмю-оюярйю# colocacion trampa explosiva
+TGFO рекецпют
+OFCL нтIжеп я йкчвюлх
+PZG1 цемепюк уюимж
+PZG2 текэдлюпьюк деятекк # Mariscal de campo Desfell (esta cortado pq no entra en la zona de titulo del inventario)
+PZG3 цемепюк-люинп псднкэт
+SRCL янкдюр г йкчвюлх
+ASGE юдчрюмр цемепюкю
+GEJE гюлйнл вюярхмх
+MATI рхпюм
+MTOV аюмдепю ялсгI
+NASI ме опхгмювемн
+DETO дернмюрнп
+TPIJ ъонмяэйхи оIярнкер
+TRFJ ъонмяэйю ямюиоепяэйю цбхмрIбйю
+DETO дернмюрнп
+SWHI бIдосярхрх бIяйI
+PDIN гюохр мю налIм
+PDCA нвIйсбюммъ бIдонбIдI мю гюохр
+
+BON1  анмся лIяIъ 1
+BON2  анмся лIяIъ 2
+BON3  анмся лIяIъ 3
+BON4  анмся лIяIъ 4
+BON5  анмся лIяIъ 5
+BON6  анмся лIяIъ 6
+BON7  анмся лIяIъ 7
+BON8  анмся лIяIъ 8
+BON9  анмся лIяIъ 9
+
+DETK бхасуIбйю
+ICD1 бярюбре дхяй г цпнч йнлюмдня 2
+ICD2 ме опюбхкэмхи дхяй
