@@ -1,0 +1,1730 @@
+
+MENUPRIN
+
+TEXTFMT ---- 0 1
+"ГОЛОВНЕ МЕНЮ"
+ENDTEXTFMT
+
+TEXTFMT ARMAS 3 1
+"Зброя"
+ENDTEXTFMT
+
+TEXTFMT EQUIPAMIENTO 5 1
+"Обладнання"
+ENDTEXTFMT
+
+TEXTFMT TECNICAS_DE_COMANDO 7 1
+"Прийоми Командос"
+ENDTEXTFMT
+
+TEXTFMT GENERALES 9 1
+"Загальне"
+ENDTEXTFMT 
+
+ENDTOKEN
+
+
+EQUIPAMIENTO
+
+TEXTFMT ---- 0 1
+"ОБЛАДНАННЯ"
+ENDTEXTFMT
+TEXTFMT CIZALLAS 2 0
+"Кусачки."
+ENDTEXTFMT
+TEXTFMT BOTIQUIN 3 0
+"Санiтарна сумка."
+ENDTEXTFMT
+TEXTFMT ARMARIOS 4 0
+"Шафи."
+ENDTEXTFMT
+TEXTFMT CAJAS 5 0
+"Коробки."
+ENDTEXTFMT
+TEXTFMT DETECTOR_DE_MINAS 6 0
+"Мiношукач."
+ENDTEXTFMT
+TEXTFMT ESCALA_PORTATIL 7 0
+"Мотузкова драбина."
+ENDTEXTFMT
+TEXTFMT GANZUA 8 0
+"Вiдмички."
+ENDTEXTFMT
+TEXTFMT PRISMATICOS 9 0
+"Бiнокль."
+ENDTEXTFMT
+TEXTFMT RADIO 10 0
+"Радiо."
+ENDTEXTFMT
+TEXTFMT RATA 11 0
+"Спайк."
+ENDTEXTFMT
+TEXTFMT SENYUELO 12 0
+"Приманка."
+ENDTEXTFMT
+TEXTFMT SOPLETE 13 0
+"Пальник."
+ENDTEXTFMT
+TEXTFMT TABACO 14 0
+"Сигарети."
+ENDTEXTFMT
+TEXTFMT TRAJE_BUCEO 16 0
+"Спорядження для дайвiнгу"
+ENDTEXTFMT
+TEXTFMT LATA_COMIDA 17 0
+"Консерви."
+ENDTEXTFMT
+TEXTFMT LLAVES 18 0
+"Ключi."
+ENDTEXTFMT
+TEXTFMT BARRA_LABIOS 19 0
+"Губна помада."
+ENDTEXTFMT
+TEXTFMT SILBATO 20 0
+"Свисток."
+ENDTEXTFMT
+TEXTFMT GARFIO 21 0
+"Гак-кiшка."
+ENDTEXTFMT
+TEXTFMT UNIFORME_ALEMAN 22 0
+"Форма ворога."
+ENDTEXTFMT
+TEXTFMT NARCOTICOS 23 0
+"Снодiйне."
+ENDTEXTFMT
+ENDTOKEN
+
+ARMAS
+
+TEXTFMT ---- 0 1
+"ЗБРОЯ"
+ENDTEXTFMT
+TEXTFMT PISTOLA 2 0
+"Пiстолет."
+ENDTEXTFMT
+TEXTFMT BAZOOKA 3 0
+"Базука."
+ENDTEXTFMT
+TEXTFMT BOMBA_ACTIVABLE 4 0
+"Радiокерована бомба."
+ENDTEXTFMT
+TEXTFMT CUCHILLO 5 0
+"Нiж."
+ENDTEXTFMT
+TEXTFMT GRANADA 6 0
+"Граната."
+ENDTEXTFMT
+TEXTFMT RIFLE_CORTO 7 0
+"Гвинтiвка."
+ENDTEXTFMT
+TEXTFMT RIFLE_FRANCOTIRADOR 8 0
+"Снайперська гвинтiвка."
+ENDTEXTFMT
+TEXTFMT METRALLETA 9 0
+"Автомат."
+ENDTEXTFMT
+TEXTFMT MINA_ANTIPERSONAL 10 0
+"Протипiхотна мiна."
+ENDTEXTFMT
+TEXTFMT MINA_ANTITANQUE 11 0
+"Протитанкова мiна."
+ENDTEXTFMT
+TEXTFMT BOMBA_TIEMPO 12 0
+"Бомба з таймером."
+ENDTEXTFMT
+TEXTFMT TRAMPA_CABLE 13 0
+"Розтяжка."
+ENDTEXTFMT
+TEXTFMT ARPON 14 0
+"Гарпун."
+ENDTEXTFMT
+TEXTFMT LANZALLAMAS 16 0
+"Вогнемет."
+ENDTEXTFMT
+TEXTFMT BOMBA_HUMO 17 0
+"Димова шашка."
+ENDTEXTFMT
+TEXTFMT TRAMPA_BOMBA 18 0
+"Мiна-пастка."
+ENDTEXTFMT
+TEXTFMT MOLOTOV 19 0
+"Бандера смузi."
+ENDTEXTFMT
+TEXTFMT GRANADA_GAS 20 0
+"Газова граната."
+ENDTEXTFMT
+TEXTFMT CEPO 21 0
+"Капкан."
+ENDTEXTFMT
+TEXTFMT TRAMPA_GARFIO 22 0
+"Гаковий Капкан."
+ENDTEXTFMT
+ENDTOKEN
+
+TECNICAS_DE_COMANDO
+
+TEXTFMT ---- 0 1
+"ПРИЙОМИ КОМАНДОС"
+ENDTEXTFMT
+TEXTFMT ACECHAR 2 0
+"Переслiдувати."
+ENDTEXTFMT
+TEXTFMT PUNYO 3 0
+"Бити."
+ENDTEXTFMT
+TEXTFMT COGER 4 0
+"Пiдняти."
+ENDTEXTFMT
+TEXTFMT ALIADOS 5 0
+"Союзники."
+ENDTEXTFMT
+TEXTFMT BUCEAR 6 0
+"Пiрнання."
+ENDTEXTFMT
+TEXTFMT POSTE 7 0
+"Телефонний стовп."
+ENDTEXTFMT
+TEXTFMT ESCABULLIRSE_POR_AGUJERO 8 0
+"Прослизнути через отвiр."
+ENDTEXTFMT
+TEXTFMT ENTERRARSE 9 0
+"Закопатись."
+ENDTEXTFMT
+TEXTFMT SALIR_POR_VENTANA 10 0
+"Втекти через вiкно."
+ENDTEXTFMT
+TEXTFMT ESCALAR 11 0
+"Взбиратись."
+ENDTEXTFMT
+TEXTFMT ESCONDITE 12 0
+"Ховатись."
+ENDTEXTFMT
+TEXTFMT NADAR 13 0
+"Пливти."
+ENDTEXTFMT
+TEXTFMT PEGARSE_A_PARED 14 0
+"Притулитись до стiни."
+ENDTEXTFMT
+TEXTFMT DISTRAER 16 0
+"Вiдволiкати Шпигуном."
+ENDTEXTFMT
+TEXTFMT LADRAR 17 0
+"Гавкiт Вiскi."
+ENDTEXTFMT
+TEXTFMT ESCONDER_CADAVERES 18 0
+"Ховати тiла."
+ENDTEXTFMT
+TEXTFMT CONDUCIR 19 0
+"Керування машинами."
+ENDTEXTFMT
+TEXTFMT APOSTARSE 20 0
+"Режим атаки."
+ENDTEXTFMT
+TEXTFMT SEDUCCION 21 0
+"Вiдволiкати Звабленням."
+ENDTEXTFMT
+TEXTFMT ARROJAR_BOTELLA 22 0
+"Кинути пляшку."
+ENDTEXTFMT
+ENDTOKEN
+
+
+PUNYO
+
+TEXTFMT ---- 0 1
+"БИТИ."
+ENDTEXTFMT
+
+TEXTFMT ATAR_&_AMORDAZAR 4 0
+"Оглушити, зв'язати i заткнути рот."
+ENDTEXTFMT
+
+TEXTFMT GOLPEAR_BOTELLA 7 0
+"Удар пляшкою."
+ENDTEXTFMT
+
+TEXTFMT GOLPEAR_PARED 9 0
+"Стук по стiнi."
+ENDTEXTFMT
+
+ENDTOKEN
+
+
+GENERALES
+
+TEXTFMT ---- 0 1
+"ЗАГАЛЬНЕ"
+ENDTEXTFMT
+TEXTFMT VISTAS 2 0
+"Управлiння камерою."
+ENDTEXTFMT
+TEXTFMT AGACHARSE_LEVANTARSE 3 0
+"Повзти та вставати."
+ENDTEXTFMT
+TEXTFMT ALEMANES 4 0
+"Противник."
+ENDTEXTFMT
+TEXTFMT CAMARA 5 0
+"Камера спостереження."
+ENDTEXTFMT
+TEXTFMT ESCALA 6 0
+"Драбини."
+ENDTEXTFMT
+TEXTFMT EXAMINAR 7 0
+"Оглянути."
+ENDTEXTFMT
+TEXTFMT INTERFACE 8 0
+"Iнтерфейс."
+ENDTEXTFMT
+TEXTFMT INVENTARIO 9 0
+"Iнвентар."
+ENDTEXTFMT
+TEXTFMT MAPA 10 0
+"Карта."
+ENDTEXTFMT
+TEXTFMT MULTISELECCION 11 0
+"Множинний вибiр."
+ENDTEXTFMT
+TEXTFMT PUERTA 12 0
+"Дверi."
+ENDTEXTFMT
+TEXTFMT SELECCION_DE_COMANDOS 13 0
+"Вибiр Командос."
+ENDTEXTFMT
+TEXTFMT TESTIGO 14 0
+"Маркер огляду."
+ENDTEXTFMT
+TEXTFMT VENTANA 16 0
+"Вiкно."
+ENDTEXTFMT
+TEXTFMT BARRILES 17 0
+"Дiжки вибухiвкою."
+ENDTEXTFMT
+TEXTFMT FRIO 18 0
+"Екстремальний холод."
+ENDTEXTFMT
+
+ENDTOKEN
+
+CAMARA
+GFX ---- Manual_camara Manual_camara.grl 223 36
+TEXTFMT ---- 0 1
+"КАМЕРА СПОСТЕРЕЖЕННЯ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Може центрувати екран на точцi або елементi рiвня i спостерiгати за цим мiсцем."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Гаряча клавiша 'F12'.
+Ви також можете використовувати приближення та багатоекранний режим."
+ENDTEXTFMT
+ENDTOKEN
+
+CIZALLAS
+GFX ---- Manual_cizallas Manual_cizallas.grl 223 36
+TEXTFMT ---- 0 1
+"КУСАЧКИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Кусачки використовуються для рiзання колючого дроту та дротяних огорож."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_TENAZAS". Для того, щоб використати кусачки виберiть в роздiлi предметiв i клацнiть на дротянiй огорожi. Ви також можете натиснути SHIFT замiсть натискання на дротяну огорожу. Деякi дроти можуть бути пiд напругою."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"В такому випадку вам доведеться вiдключити джерело струму."
+ENDTEXTFMT
+ENDTOKEN
+
+CAJAS
+GFX ---- Manual_caja Manual_caja.grl 223 36
+TEXTFMT ---- 0 1
+"КОРОБКИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вони розкиданi на рiвнi. В них може знаходитись зброя, амунiцiя, предмети i.т.д."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Металiчнi коробки закритi i вам прийдеться використати КРАДIЯ, щоб вiдкрити.
+Деревянi коробки можуть вiдкрити усi члени команди."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Якщо стрiляти по коробкам, то вони можуть вибухнути. ЗЕЛЕНИЙ БЕРЕТ може переносити коробки."
+ENDTEXTFMT
+ENDTOKEN
+
+CABLE
+GFX ---- Manual_Cables Manual_Cables.grl 223 36
+TEXTFMT ---- 0 1
+"ТЕЛЕФОННI ДРОТИ."
+ENDTEXTFMT
+TEXTFMT ---- 1 0
+"Використовуйте телефоннi дроти, щоб рухатись непомiтно."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Тiльки КРАДIЙ i ЗЕЛЕНИЙ БЕРЕТ можуть використовувати дроти. Доступ до них можна отримати, залiзши на телефонний стовп або вилiзши з вiкна. Висячи на дротах, Коммандос невидимий для ворога."
+ENDTEXTFMT
+TEXTFMT ---- 15 0 
+"Крiм того, ви побачите рiвень витривалостi, який буде зменшуватись. 
+Коли IНДИКАТОР досягне нуля, Командос впаде на землю. 
+Вiн може серйозно постраждати."
+ENDTEXTFMT
+ENDTOKEN
+
+BUCEAR
+GFX ---- Manual_Bucear Manual_Bucear.grl 223 36
+TEXTFMT ---- 0 1
+"ПIРНАННЯ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вашi люди вмiють плавати пiд водою."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша"#key BOTON_SUMERGIR" щоб пiрнути пiд воду або винирнути на поверхню."
+"Коли один з ваших людей пливе, виберiть ПIРНУТИ щоб погрузитися у воду.
+Пiд водою, стежне за iндикатором кисню. Якщо вiн досягне нуля, Командос потоне."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Керуйте бiйцем, використовуючи ЛКМ. Для повернення на поверхню, використовуйте "#key BOTON_EMERGER"."
+ENDTEXTFMT
+ENDTOKEN
+
+ESCABULLIRSE_POR_AGUJERO
+GFX ---- Manual_pasar_por_agujero Manual_pasar_por_agujero.grl 223 36
+TEXTFMT ---- 0 1
+"ПРОСЛИЗНУТИ ЧЕРЕЗ ОТВIР."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"КРАДIЙ може потрапити в мiсця, якi недоступнi для iнших людей."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"КРАДIЙ повинен лягти на землю, щоб перебратись через отвiр.
+Натискаючи SHIFT, натиснiть ЛКМ на отвiр, через який потрiбно проповзти."
+ENDTEXTFMT
+ENDTOKEN
+
+CUCHILLO
+GFX ---- Manual_cuchillo Manual_cuchillo.grl 223 36
+TEXTFMT ---- 0 1
+"НIЖ КОМАНДОС."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Гострий бойовий нiж з покращеною рукояткою."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша"#key BOTON_CUCHILLO". Може бути вибраний в роздiлi 'Зброя' . 
+Наведи курсор на ворога i нажми ЛКМ для атаки. 
+Клацни ПКМ для вiдмiни. Тiльки ЗЕЛЕНИЙ БЕРЕТ та ДАЙВЕР використовують нiж"
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Будь обережним i переконайся, що тебе не видно, тому що можеш отримати проблеми."
+ENDTEXTFMT
+ENDTOKEN
+
+COGER
+GFX ---- Manual_coger Manual_coger.grl 223 36
+TEXTFMT ---- 0 1
+"ПIДНЯТИ / КИНУТИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використовуйте для пiдняття великих предметiв."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Натиснiть SHIFT i клацнiть на предмет, який ви хочете пiдняти. 
+Клацнiть ЛКМ на точку куди хочете перенести предмет. Натиснiть ПКМ, коли дiйдете туди.
+Таким чином ви можете перемiщати дiжки, коробки i тiла солдат по картi."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Командос не може бiгти якщо вiн несе предмет. 
+"
+ENDTEXTFMT
+ENDTOKEN
+
+BOTIQUIN
+GFX ---- Manual_botiquin Manual_botiquin.grl 223 36
+TEXTFMT ---- 0 1
+"САНIТАРНА СУМКА."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Лiкування поранених Командос."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_BOTIQUIN". Ви можете вибрати аптечку в роздiлi 'Предмети'. 
+Натиснiть на бiйця, якого потрiбно вилiкувати (включно iз Командос, який несе санiтарну сумку). 
+Щоб вилiкувати Командос, що несе санiтарну сумку, натиснiть на кнопку Використати 
+i клацнiть на санiтарну сумку."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"На значку ви можете бачити скiльки разiв можна використати сумку."
+ENDTEXTFMT
+ENDTOKEN
+
+BOMBA_ACTIVABLE
+GFX ---- Manual_bomba_activable Manual_bomba_activable.grl 223 36
+TEXTFMT ---- 0 1
+"РАДIОКЕРОВАНА БОМБА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Потужна вибухiвка, яку можна пiдiрвати дистанцiйно."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша"#key BOTON_BOMBA_ACT". Знаходиться в роздiлi 'Зброя'. Натиснiть на точку, де потрiбно закласти бомбу.
+Вiдiйдiть подалi. Натиснiть на детонатор в панелi предметiв або використовуйте "#key BOTON_ACTIVADOR" клавiшу для вибуху."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"САПЕР може використовувати бомби. 
+Кiлькiсть бомб показано на значку."
+ENDTEXTFMT
+ENDTOKEN
+
+ATAR_&_AMORDAZAR
+GFX ---- Manual_amordazar Manual_amordazar.grl 223 36
+TEXTFMT ---- 0 1
+"ОГЛУШИТИ, ЗВ'ЯЗАТИ I ЗАТКНУТИ РОТ"
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Виберiть значок Удар в роздiлi Зброя."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_ATONTAR". Натиснiть на ворога, якого потрiбно оглушити i ваш Командос його вдарить. 
+Коли вiн впаде, натиснiть SHIFT i клацнiть на нього, щоб зв'язати."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Всi крiм КРАДIЯ i НАТАЛI, можуть зв'язувати ворожих солдат."
+ENDTEXTFMT
+ENDTOKEN
+
+PISTOLA
+GFX ---- Manual_pistola Manual_pistola.grl 223 36
+TEXTFMT ---- 0 1
+"ПIСТОЛЕТ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Гаряча клавiша"#key BOTON_PISTOLA"."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Наведiть курсор на ворога i стрiляйте ЛКМ.
+Якщо цiль знаходиться поза зоною досяжностi, курсор буде червоний.
+Якщо керувати союзниками, не потрiбно переживати про патрони."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ви можете пiдняти i використати ворожу зброю, але вона мiстить обмежену кiлкiсть патронiв."
+ENDTEXTFMT
+TEXTFMT ---- 17 0
+"ПIСТОЛЕТ СОЮЗНИКIВ:"
+ENDTEXTFMT
+TEXTFMT ---- 18 0
+"COLT 1911A."
+ENDTEXTFMT
+TEXTFMT ---- 20 0
+"НIМЕЦЬКИЙ ПIСТОЛЕТ:"
+ENDTEXTFMT
+TEXTFMT ---- 21 0
+"LUGER P 08."
+ENDTEXTFMT
+TEXTFMT ---- 23 0
+"ЯПОНСЬКИЙ ПIСТОЛЕТ:"
+ENDTEXTFMT
+TEXTFMT ---- 24 0
+"TYPE 94."
+ENDTEXTFMT
+ENDTOKEN
+
+BAZOOKA
+GFX ---- Manual_BAZOKA Manual_BAZOKA.grl 223 36
+TEXTFMT ---- 0 1
+"ПРОТИТАНКОВИЙ ГРАНАТОМЕТ БАЗУКА"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Гаряча клавiша "#key BOTON_BAZOOKA". Вибрати в роздiлi 'Зброя'. 
+Базука - це бронебiйна зброя для боротьби з броньованою технiкою.
+Це легка зброя з великою вогневою мiццю.
+Наведiть мишею i стрiляйте ЛКМ. Для вiдмiни пострiлу натиснiть ПКМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Базуку може використати САПЕР. Деякi солдати союзникiв також використовують базуки.
+Кiлькiсть пострiлiв показано на значку."
+ENDTEXTFMT
+ENDTOKEN
+
+RIFLE_FRANCOTIRADOR
+GFX ---- Manual_rifle_franco Manual_rifle_franco.grl 223 36
+TEXTFMT ---- 0 1
+"СНАЙПЕРСЬКА ГВИНТIВКА"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Гаряча клавiша "#key BOTON_RIFLE". Виберiть снайперку в роздiлi 'Зброя' . 
+Зарядiть гвинтiвку, натиснувши на ПКМ. 
+Патрони для снайперки - рiдкiсть. Ви можете знайти патрони у ворожих снайперiв."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Щоб стрiляти з вiкна використовуйте гарячу клавiшу "#key BOTON_EXAMINAR" i виберiть гвинтiвку. Щоб вiдмiнити - натиснiть ПКМ."
+ENDTEXTFMT
+TEXTFMT ---- 17 0
+"ГВИНТIВКА СОЮЗНИКIВ:"
+ENDTEXTFMT
+TEXTFMT ---- 18 0
+"M1903 .30 SPRINGFIELD."
+ENDTEXTFMT
+TEXTFMT ---- 20 0
+"НIМЕЦЬКА ГВИНТIВКА:"
+ENDTEXTFMT
+TEXTFMT ---- 21 0
+"GEWEHR 43."
+ENDTEXTFMT
+TEXTFMT ---- 23 0
+"ЯПОНСЬКА ГВИНТIВКА:"
+ENDTEXTFMT
+TEXTFMT ---- 24 0
+"TYPE 97."
+ENDTEXTFMT
+ENDTOKEN
+
+DETECTOR_DE_MINAS
+GFX ---- Manual_detectar_minas Manual_detectar_minas.grl 223 36
+TEXTFMT ---- 0 1
+"МIНОШУКАЧ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Горячая клавиша "#key BOTON_DETECTOR". Знаходить закопаннi мiни.
+Виберiть мiношукач в Функцiях i натиснiть ЛКМ для пошуку.
+Зупинити пошук можна натиснувши ПКМ. Мiношукач може бути використаний САПЕРОМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Щоб деативувати мiну наведiть курсор i натиснiть ЛКМ, коли зявиться курсор 'ДЕАКТИВАЦIЯ'. Будьте обережнi, ваш САПЕР не зупиниться сам, коли зайде на мiну i може пiдiрватись!"
+ENDTEXTFMT
+ENDTOKEN
+
+ARMARIOS
+GFX ---- Manual_armario Manual_armario.grl 223 36
+TEXTFMT ---- 0 1
+"ШАФИ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Шафи можуть мiстити кориснi речi або в них можна зберiгати речi, якi не потрiбно носити з собою."
+ENDTEXTFMT
+TEXTFMT ---- 9 0
+"Ви можете глянути, що знаходиться всерединi шафи, вибравши 'ОГЛЯД' i натиснувши на шафу, яку хочете оглянути."
+ENDTEXTFMT
+ENDTOKEN
+
+ALEMANES
+GFX ---- Manual_enemigo Manual_enemigo.grl 223 36
+TEXTFMT ---- 0 1
+"ПРОТИВНИК"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Противник буде намагатись всiма доступними засобами перешкодити виконанню вашого завдання."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Ворожi солдати можуть чути та бачити вас.
+Ворожi зiр та слух мають два ступенi чутливостi. 
+На далекiй вiдстанi, вашi люди не будуть виявленi, якщо вони лежать на землi або за низькою стiнкою."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"На близькiй вiдстанi бiйцi завжди будуть помiченi. 
+Якщо ворги помiчають когось з Командос, вони одразу вiдкривають вогонь."
+ENDTEXTFMT
+ENDTOKEN
+
+ENTERRARSE
+GFX ---- Manual_hazada Manual_hazada.grl 223 36
+TEXTFMT ---- 0 1
+"ЗАКОПАТИСЬ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"ЗЕЛЕНИЙ БЕРЕТ може закопатись в землю щоб противник його не помiтив."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Гаряча клавiша "#key BOTON_PALA". Виберiть лопату в роздiлi 'Дiя'. 
+Натиснiть ЛКМ на землю, в якiй можна закопатись."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Закопаний Командос буде невидимим для ворожих солдат. Щоб вибратись на поверхню, натиснiть будь-яку кнопку мишi."
+ENDTEXTFMT
+ENDTOKEN
+
+ESCALA_PORTATIL
+GFX ---- Manual_escala_portatil Manual_escala_portatil.grl 223 36
+TEXTFMT ---- 0 1
+"МОТУЗКОВА ДРАБИНА"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Мотузкова драбина допоможе дiстатися до важкодоступних мiсць."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_ESCALA". Виберiть в роздiлi 'Предмети'. 
+Щоб закрiпити драбину, натиснiть на стiну або на вiкно. Драбину не можна закрiпити знизу. Натиснiть SHIFT щоб використати драбину та кланiть на нiй."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ви можете згорнути мотузкову драбину, використовуючи SHIFT i натиснувши ЛКМ на точку крiплення.
+Памятайте, ви можете згорнути драбину тiльки якщо ви зверху."
+ENDTEXTFMT
+ENDTOKEN
+
+ESCALAR
+GFX ---- Manual_trepar Manual_trepar.grl 223 36
+TEXTFMT ---- 0 1
+"ВЗБИРАТИСЬ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використовуйте КРАДIЯ для того, щоб пiднiматися на стiну."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Натиснувши на SHIFT, клацнiть ЛКМ на потрiбну стiну. Деякi стiни дозволяють рухатися боком.
+У цей час виводиться iндикатор витривалостi.
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Запас витривалостi поступово буде зменшуватися. Коли вiн досягне нуля, КРАДIЙ упаде i може покалiчитися, якщо висота буде пристойною."
+ENDTEXTFMT
+ENDTOKEN
+
+ESCALA
+GFX ---- Manual_escala Manual_escala.grl 223 36
+TEXTFMT ---- 0 1
+"ДРАБИНИ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Перемiщення з використанням драбин."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Натиснувши SHIFT, клацнiть ЛКМ на драбинi. Ви можете змiнити напрямок вгору або вниз, або навiть зупинитися, коли лiзете, натиснувши ПКМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Будьте обережнi, оскiльки ви не зможете захистити себе на драбинах."
+ENDTEXTFMT
+ENDTOKEN
+
+ESCONDITE
+GFX ---- Manual_esconderse Manual_esconderse.grl 223 36
+TEXTFMT ---- 0 1
+"ХОВАТИСЬ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"КРАДIЙ може ховатися майже скрiзь."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Натиснувши SHIFT, клацнiть мiсце де ви хочете сховатися ЛКМ.
+Щоб повернутися до гри, натиснiть будь-яку кнопку мишi."
+ENDTEXTFMT
+ENDTOKEN
+
+EXAMINAR
+GFX ---- Manual_examinar Manual_examinar.grl 223 36
+TEXTFMT ---- 0 1
+"ОГЛЯНУТИ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Отримання iнфи з предмета або персонажа у грi."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_EXAMINAR"."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Ви можете оглянути практично все: тiла, вiкна, коробки.
+Ви також можете потрапити до меню обмiну предметами."
+ENDTEXTFMT
+ENDTOKEN
+
+GANZUA
+GFX ---- Manual_ganzua Manual_ganzua.grl 223 36
+TEXTFMT ---- 0 1
+"ВIДМИЧКИ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"На вигляд марна зв'язка залiзяччя."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_GANZUA". Вибрати в роздiлi 'Предмети' .
+Клацнiть ЛКМ на закритих дверях, щоб вiдiмкнути."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Пiсля цього будь-який Командос може спокiйно вiдчиняти цi дверi.
+Вiдмички дозволяють також вiдкривати коробки та сейфи. "
+ENDTEXTFMT
+ENDTOKEN
+
+GOLPEAR_PARED
+GFX ---- Manual_golpear_en_pared Manual_golpear_en_pared.grl 223 36
+TEXTFMT ---- 0 1
+"СТУК ПО СТIНI."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вiдволiкання противника стукотом по стiнi."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_GOLPEAR_PARED". Вибрати дiю в роздiлi 'Зброя'
+Клацнiть по стiнi i Командос стукне по нiй. Противники в радiусi чутностi обернуться на звук i, можливо, пiдiйдуть перевiрити."
+ENDTEXTFMT
+ENDTOKEN
+
+GRANADA
+GFX ---- Manual_granada Manual_granada.grl 223 36
+TEXTFMT ---- 0 1
+"РУЧНА ГРАНАТА N36 M, MK1"
+ENDTEXTFMT
+TEXTFMT ---- 2 1
+"'Бомба Мiллз'"
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Розривна граната."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_GRANADA". Виберiть в роздiлi 'Зброя' .
+Щоб кинути, натиснiть ЛКМ пiсля вибору мети."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Гранати можна кидати через дверi, люки та вiкна, як зсередини так та ззовнi будiвель.
+САПЕР - спец з гранат. Це потужна зброя, але вона дуже шумна i може привернути увагу."
+ENDTEXTFMT
+ENDTOKEN
+
+INTERFACE
+GFX ---- Manual_Interface Manual_Interface.grl 223 36
+TEXTFMT ---- 0 1
+"IНТЕРФЕЙС"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Мiстить:"
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"- Iндикатор здоров'я."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"- Iндикатор витривалостi."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"- Список дiй:"
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"   - Функцiй."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"   - Предметiв."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"   - Дiя"
+ENDTEXTFMT
+TEXTFMT ---- 9 0
+"   - Зброя."
+ENDTEXTFMT
+TEXTFMT ---- 10 0
+"Розшинене Меню ПКМ."
+ENDTEXTFMT
+TEXTFMT ---- 12 0
+"Крiм того, ви можете знайти:"
+ENDTEXTFMT
+TEXTFMT ---- 13 0
+"- Маркер / Поле зору."
+ENDTEXTFMT
+TEXTFMT ---- 16 0
+"- Карта."
+ENDTEXTFMT
+TEXTFMT ---- 17 0
+"- Камера."
+ENDTEXTFMT
+TEXTFMT ---- 18 0
+"- Блокнот."
+ENDTEXTFMT
+TEXTFMT ---- 19 0
+"- Оглянути."
+ENDTEXTFMT
+TEXTFMT ---- 20 0
+- Лягти / Встати.
+ENDTEXTFMT
+TEXTFMT ---- 21 0
+"- Режим атаки."
+ENDTEXTFMT
+TEXTFMT ---- 23 0
+"Пам'ятай, ти можеш впливати на елементи карти утримуючи SHIFT та
+наводячи курсор на потрiбну область."
+ENDTEXTFMT
+ENDTOKEN
+
+APOSTARSE
+GFX ---- Manual_apostar Manual_apostar.grl 223 36
+TEXTFMT ---- 0 1
+"РЕЖИМ АТАКИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Увiмкнення режиму автоматичного вогню."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Командос автоматично вiдкриватимуть вогонь по ворожих солдатах. Натиснувши CTRL i клацнувши
+ПКМ можна вказати, в який бiк повинен дивитися Командос."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ви можете розставити Командос у лежачому або стоячому положеннi.
+Це аж нiяк не легкий шлях до перемоги, оскiльки в цьому режимi ваших солдатiв також можуть пiдстрелити."
+ENDTEXTFMT
+ENDTOKEN
+
+BOMBA_HUMO
+GFX ---- Manual_BombaHumo Manual_BombaHumo.grl 223 36
+TEXTFMT ---- 0 1
+"ДИМОВА ШАШКА MKII."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Можна сховатись за димовою завiсою."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_BOMBA". Виберiть в роздiлi 'Зброя'.
+Хмара з диму, створювана шашкою, не дасть ворогам виявити Вас."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ви можете використовувати Димову шашку для створення завiси, щоб сховатися самому або щоб спантеличити противника, кинувши в нього цю шашку. Дим не дасть можливостi бачити i чути."
+ENDTEXTFMT
+ENDTOKEN
+
+INVENTARIO
+GFX ---- Manual_inventario Manual_inventario.grl 223 36
+TEXTFMT ---- 0 1
+"IНВЕНТАР."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використання предметiв."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Виводиться, якщо клацнути ПКМ на обличчi Командос або при оглядi коробок, трупiв, шаф тощо."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Вiн роздiлений на комiрки. Кожна рiч займе певну кiлькiсть комiрок.
+Натиснiть на предмет, щоб перенести його до iншого iнвентаря."
+ENDTEXTFMT
+ENDTOKEN
+
+ALIADOS
+GFX ---- Manual_aliados Manual_aliados.grl 223 36
+TEXTFMT ---- 0 1
+"СОЮЗНИКИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Союзники стануть у нагодi для виконання ваших мiсiй.
+Вони не частина вашого загону, але це не значить, що ви повиннi слати союзникiв на смерть. Використовуйте союзникiв мудро.
+ENDTEXTFMT
+TEXTFMT ---- 9 0
+"Вони можуть бути залученi в рiзнi способи, можуть укриватись в положеннях: стоячи, з колiна i лежачи."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Здатнiсть протистояти ворожим атакам залежить вiд положення.
+Можуть використовувати важку зброю, таку як базука.
+ENDTEXTFMT
+ENDTOKEN
+
+MAPA
+GFX ---- Manual_mapa Manual_mapa.grl 223 36
+TEXTFMT ---- 0 1
+"КАРТА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Можна стежити за противником, використовуючи карту. На картi можна глянути розташування ворожих сил."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Натиснiть значое "КАРТА" у верхньому правому кутi екрана, щоб вiдкрити карту.
+Ще раз натиснiть на значок, щоб закрити карту."
+ENDTEXTFMT
+ENDTOKEN
+
+MINA_ANTIPERSONAL
+GFX ---- Manual_mina_antipersonal Manual_mina_antipersonal.grl 223 36
+TEXTFMT ---- 0 1
+"ПРОТИПIХОТНА МIНА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Дуже ефективна, якщо використати як пастку."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_MINA". Виберiть мiну у роздiлi 'Предмети'.
+Вона досить потужна, щоб знищити всiх ворогiв поряд iз мiсцем вибуху.
+Натиснiть ЛКМ на мiсце, де потрiбно поставити мiну.
+Вашi люди знають, де мiна i не пiдiрвуться на нiй.
+Протипiхотнi мiни використовуються САПЕРОМ."
+ENDTEXTFMT
+ENDTOKEN
+
+METRALLETA
+GFX ---- Manual_metralleta Manual_metralleta.grl 223 36
+TEXTFMT ---- 0 1
+"АВТОМАТ МР40."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Автомат - легка автоматична зброя з високою швидкiстю вогню."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_METRALLETA". Вибирайте його в роздiлi 'Зброя .
+Наведiть курсор та стрiляйте ЛКМ. Автомат може стрiляти короткими чергами та мiстить обмежений запас патронiв."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ви можете перезаряджати його, збираючи патрони з трупiв ворогiв.
+Велика дальнiсть стрiльби робить його дуже небезпечним."
+ENDTEXTFMT
+ENDTOKEN
+
+TRAJE_BUCEO
+GFX ---- Manual_TrajeNeopreno Manual_TrajeNeopreno.grl 223 36
+TEXTFMT ---- 0 1
+"СПОРЯДЖЕННЯ ДЛЯ ДАЙВIНГУ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Ви можете залишатися пiд водою тривалий час."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_PONER_TRAJE_BUZO". Виберiть в роздiлi 'Предмети' .
+Балони з киснем дозволяють ДАЙВЕРУ залишатися пiд водою тривалий час."
+ENDTEXTFMT
+ENDTOKEN
+
+MINA_ANTITANQUE
+GFX ---- Manual_mina_antitanque Manual_mina_antitanque.grl 223 36
+TEXTFMT ---- 0 1
+"ПРОТИТАНКОВА МIНА TELLERMINE 35."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Потужна мiна."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_MINACONTRACARRO". Виберiть у роздiлi 'Предмети'.
+Клацнiть ЛКМ в точцi, де хочете встановити мiну.
+Вони вибухають тiльки тодi коли на них натрапить машина або танк, пам'ятайте про це.
+Застосовуються САПЕРОМ."
+ENDTEXTFMT
+ENDTOKEN
+
+MULTISELECCION
+GFX ---- Manual_seleccion_multipl Manual_seleccion_multipl.grl 223 36
+TEXTFMT ---- 0 1
+"МНОЖИННИЙ ВИБIР."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Ви можете вибрати декiлька Командос одночасно."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Утримуйте ПКМ та видiлiть Командос прямокутником.
+Ви можете також вибрати одного Командос i потiм додати бiльше, натиснувши CTRL i вiдповiдну клавiшу Командос."
+
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+Також ви можете натиснути CTRL i клiкнути на обличчi Командос на екранi.
+Щоб вiдмовитися вiд вибору всiх команд, натиснiть '0'."
+ENDTEXTFMT
+ENDTOKEN
+
+PEGARSE_A_PARED
+GFX ---- Manual_pegarse_a_pared Manual_pegarse_a_pared.grl 223 36
+TEXTFMT ---- 0 1
+"ПРИТУЛИТИСЬ ДО СТIНИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Сховатись вiд ворога, притулившись до стiни."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Якщо розташувати Командос близько до стiни, вiн притиснеться. Так вiн може зливатись з нею i може бути помiченим ворогами тiльки з близька, навiть якщо вiн у стоячому положеннi."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Вiн може рухатися вздовж стiни i залишатися непомiтним. Щоб повернути його назад, натиснiть ЛКМ."
+ENDTEXTFMT
+ENDTOKEN
+
+LATA_COMIDA
+GFX ---- Manual_Lata Manual_Lata.grl 223 36
+TEXTFMT ---- 0 1
+"КОНСЕРВИ"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Iндивiдуальний сухпайок."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_LATA_COMIDA". Виберiть у роздiлi 'Предмети'.
+Вiдновлюйте здоров'я ваших Командос. Використовуйте сухпайок, якщо один з ваших Командос поранений. Пам'ятайте, запас консерiв обмежений!
+ENDTEXTFMT
+ENDTOKEN
+
+NADAR
+GFX ---- Manual_Nadar Manual_Nadar.grl 223 36
+TEXTFMT ---- 0 1
+"ПЛИВТИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Скористайтеся тим, що вашi Командос можуть перепливати рiчки i канали."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+Щоб Командос увiйшов у воду, клацнiть ЛКМ по водi.
+При одиночному клiку ваш Командос попливе зi звичайною швидкiстю."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Клацнувши двiчi, вiн попливе у 2 рази швидше, але це бiльш небезпечно i його легше буде виявити."
+ENDTEXTFMT
+ENDTOKEN
+
+LLAVES
+GFX ---- Manual_Llaves Manual_Llaves.grl 223 36
+TEXTFMT ---- 0 1
+"КЛЮЧI."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Набiр ключiв."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_LLAVE".Виберiть у роздiлi 'Предмети'.
+Деякi дверi зачиненi та можуть бути вiдчиненi за допомогою вiдповiдних ключiв."
+ENDTEXTFMT
+TEXTFMT ---- 12 0
+"Шукайте ключi в одязi ворогiв, у шафах i коробках. Ви можете використовувати ключi натиснувши SHIFT i клацнувши на замкненi дверi."
+ENDTEXTFMT
+ENDTOKEN
+
+BARRA_LABIOS
+GFX ---- Manual_barralabios Manual_barralabios.grl 223 36
+TEXTFMT ---- 0 1
+"ГУБНА ПОМАДА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Зваблення."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_PINTALABIOS". Вибирайте в роздiлi 'Дiя'.
+Вiдволiкайте ворогiв, використовуючи НАТАЛЮ. Поки вони вiдволiкаються iншi Командос можуть пробратись повз i зробити свою справу."
+ENDTEXTFMT
+ENDTOKEN
+
+SILBATO
+GFX ---- Manual_SilbatoWhisky Manual_SilbatoWhisky.grl 223 36
+TEXTFMT ---- 0 1
+"СОБАЧИЙ СВИСТОК."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Ультразвуковий свисток."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Гаряча клавiша "#key BOTON_SILBATO". Вибирайте в роздiлi 'Дiя' .
+Використовуйте собачий свисток, щоб покликати ВIСКI до себе. Вiн прийде до вас з будь-якого мiсця на картi."
+ENDTEXTFMT
+ENDTOKEN
+
+POSTE
+GFX ---- Manual_Poste Manual_Poste.grl 223 36
+TEXTFMT ---- 0 1
+"ТЕЛЕФОННИЙ СТОВБ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Маючи СНАЙПЕРА на вершинi цього стовпа, ви можете отримати максимальну перевагу, стрiляючи звiдти.
+Залазити на стовп слiд, натиснувши SHIFT i клацнувши на стовп."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Ви можете зупинитися i зiстрибнути вниз, будь-коли натиснувши ПКМ.
+ЗЕЛЕНИЙ БЕРЕТ i КРАДIЙ також можуть пiднятися на стовп i рухатися дротами."
+ENDTEXTFMT
+ENDTOKEN
+
+GARFIO
+GFX ---- Manual_Garfio Manual_Garfio.grl 223 36
+TEXTFMT ---- 0 1
+"ГАК-КIШКА."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Необхiдна рiч для проникнення у ворожi укрiплення."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_GARFIO". Вибрати в роздiлi "Функцiя'.
+Розташуйте курсор на стiнi там, куди ви хочете пiднятися i клацнiть ЛКМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Щоб повернути гачок, натиснiть SHIFT i клацнiть на верхню частину мотузки.
+Ви можете вiдчепити гак, тiльки пiднявшись на стiну."
+ENDTEXTFMT
+TEXTFMT TRAMPA_GARFIO 20 0
+"ГАКОВИЙ КАПКАН."
+ENDTEXTFMT
+ENDTOKEN
+
+TRAMPA_GARFIO
+GFX ---- Manual_TrampaCable Manual_TrampaCable.grl 223 36
+TEXTFMT ---- 0 1
+"ГАКОВИЙ КАПКАН."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Проста, але ефективна пастка, що працюватиме з гаком."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Прикрiпити гак до частини стiни i стати навпроти,
+з натягнутою мотузкою в руках.
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ворожий солдат, що проходить, спiткнеться, впаде i втратить свiдомiсть."
+ENDTEXTFMT
+ENDTOKEN
+
+TRAMPA_CABLE
+GFX ---- Manual_TrampaCable Manual_TrampaCable.grl 223 36
+TEXTFMT ---- 0 1
+"РОЗТЯЖКА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використовуйте котушку, щоб встановити цю пастку."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_CABLETRAMPA". Виберiть в роздiлi "Предмети'.
+Вибери котушку ВОДIЯ i клацнiть ЛКМ по двох точках, мiж якими треба встановити розтяжку.
+Будь-який солдат, що проходить або бiжить у цьому мiсцi, спiткнеться i впаде.
+ENDTEXTFMT
+TEXTFMT TRAMPA_BOMBA 22 0
+"МIНА-ПАСТКА."
+ENDTEXTFMT
+ENDTOKEN
+
+TRAMPA_BOMBA
+GFX ---- Manual_TrampaBomba Manual_TrampaBomba.grl 223 36
+TEXTFMT ---- 0 1
+"МIНА-ПАСТКА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Iдеальна пастка з використанням вибухiвки."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Коли ВОДIЙ встановить розтяжку, використовуйте САПЕРА щоб вибрати радiокеровану бомбу або гранату,
+i встановити бiля пастки. Коли ворожий солдат зачепить дрiт вибухiвка вибухне.
+Не забудь вiдiйти подалi.
+ENDTEXTFMT
+ENDTOKEN
+
+BOMBA_TIEMPO
+GFX ---- Manual_bombatiempo Manual_bombatiempo.grl 223 36
+TEXTFMT ---- 0 1
+"БОМБА З ТАЙМЕРОМ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вибухне пiсля короткого промiжку часу."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_BOMBA". Вибирай у роздiлi 'Предмети'.
+Вибравши бомбу, клацнiть у точцi, де ви хочете встановити. Бомба вибухне за 30 секунд."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Якщо ви бiльше не захочете використовувати бомбу, ви можете забрати вибухiвку, щоб використовувати пiзнiше. Але переконайтесь, що вона вам потрiбна, оскiльки часу буде мало часу i помилка може виявитися фатальною."
+ENDTEXTFMT
+ENDTOKEN
+
+PRISMATICOS
+GFX ---- Manual_prismaticos Manual_prismaticos.grl 223 36
+TEXTFMT ---- 0 1
+"БIНОКЛЬ Leica SLK 8x56."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Це чудовий спосiб шпигувати всерединi будiвель, не наражаючи Командос на небезпеку."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Гаряча клавiша "#key BOTON_PRISMATICOS". Виберiть у роздiлi 'Дiя'.
+Наведiть курсор на вiкно та клацнiть ЛКМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Можна використовувати зсерединi та зовнi. Якщо ви клацнете по солдату противника, ви побачите детальну iнформацiю про нього."
+ENDTEXTFMT
+ENDTOKEN
+
+PUERTA
+GFX ---- Manual_puerta Manual_puerta.grl 223 36
+TEXTFMT ---- 0 1
+"ДВЕРI."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вчасно закритi дверi можуть стати ключем до успiху."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Тримайте SHIFT натиснутим i клацнiть ЛКМ по вiдкритих дверях, щоб закрити дверi.
+Ви можете ховатися за вiдчиненими дверима. Деякi дверi можна замикати."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"У таких випадках використовуйте КРАДIЯ для зламу замка дверей.
+Як i Командос, вороги теж можуть вiдчиняти i зачиняти дверi.
+ENDTEXTFMT
+ENDTOKEN
+
+LANZALLAMAS
+GFX ---- Manual_Lanzallamas Manual_Lanzallamas.grl 223 36
+TEXTFMT ---- 0 1
+"ВОГНЕМЕТ М2-2."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Призначений для використання проти бункерiв та сховищ."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_LANZALLAMAS". Виберiть в роздiлi 'Зброя'.
+Для використання вогнемета потрiбен САПЕР. Його руйнiвна сила iдеальна проти укрiплень ворога.
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Запаси пального обмеженi, так що не витрачайте його дарма."
+ENDTEXTFMT
+ENDTOKEN
+
+RATA
+GFX ---- Manual_rata Manual_rata.grl 223 36
+TEXTFMT ---- 0 1
+"СПАЙК."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вихованець КРАДIЯ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Гаряча клавiша "#key BOTON_MUNECO". Виберiть в роздiлi 'Предмети'.
+Клацнiть ЛКМ там, куди хочете надiслати СПАЙКА."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Вiн вирушить туди i стрибатиме, вiдволiкаючи ворогiв. Потiм вiн повернеться до злодiя."
+ENDTEXTFMT
+ENDTOKEN
+
+CEPO
+GFX ---- Manual_cepo Manual_cepo.grl 223 36
+TEXTFMT ---- 0 1
+"КАПКАН."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Смертельний капкан ВОДIЯ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Гаряча клавiша "#key BOTON_CEPO". Виберiть в роздiлi 'Предмети'.
+Клацнiть ЛКМ там, де хочете встановити його. Якщо ворог
+настане на нього, то помре.
+Не турбуйтеся про союзникiв, вони обiйдуть капкан.
+ENDTEXTFMT
+ENDTOKEN
+
+RADIO
+GFX ---- Manual_radio Manual_radio.grl 223 36
+TEXTFMT ---- 0 1
+"РАДIО UNIX 38."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Польове радiо АМ частоти.
+Мiстить власне джерело живлення."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Тримайте SHIFT натиснутим i клацнiть на радiо, щоб використати його.
+Радiо можуть використовувати будь-якi Командос та Союзники."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Iнодi для нього потрiбнi коди шифрування."
+ENDTEXTFMT
+ENDTOKEN
+
+LADRAR
+GFX ---- Manual_LadridoWhisky Manual_LadridoWhisky.grl 223 36
+TEXTFMT ---- 0 1
+"ГАВКIТ ВIСКI."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Завдяки тренуванню, Вiскi може пiдбiгати до солдатiв ворогiв, i гавкати по командi, вiдволiкаючи увагу."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Гаряча клавiша "#key BOTON_LADRARDISTRAER". Виберiть в меню 'Дiя'."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Гавкiт ВIСКI вiдволiче ворогiв на короткий перiод часу, пiсля чого вони продовжать свою справу."
+ENDTEXTFMT
+ENDTOKEN
+
+RIFLE_CORTO
+GFX ---- Manual_rifle_corto Manual_rifle_corto.grl 223 36
+TEXTFMT ---- 0 1
+"ГВИНТIВКА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Гаряча клавiша "#key BOTON_RIFLECORTO". Виберiть в роздiлi 'Зброя'.
+Наведiть курсор та стрiляйте ЛКМ.
+Коли цiль поза радiусом, прицiл червоний.
+Якщо ти вкрадеш гвинтiвку ворога, то в тебе буде обмежена кiлькiсть патронiв.
+ENDTEXTFMT
+TEXTFMT ---- 17 0
+"ГВИНТIВКА СОЮЗНИКIВ:"
+ENDTEXTFMT
+TEXTFMT ---- 18 0
+"LEE-ENFIELD No4 MKI"
+ENDTEXTFMT
+TEXTFMT ---- 20 0
+"НIМЕЦЬКА Гвинтiвка:"
+ENDTEXTFMT
+TEXTFMT ---- 21 0
+"KARABINER 98K"
+ENDTEXTFMT
+TEXTFMT ---- 23 0
+"ЯПОНСЬКА Гвинтiвка:"
+ENDTEXTFMT
+TEXTFMT ---- 24 0
+"TYPE 38."
+ENDTEXTFMT
+ENDTOKEN
+
+ACECHAR
+GFX ---- Manual_pegarse_a_aleman Manual_pegarse_a_aleman.grl 223 36
+TEXTFMT ---- 0 1
+"ПЕРЕСЛIДУВАТИ I ПОГРАБУВАТИ ВОРОГА."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"КРАДIЙ може пiдбиратись до ворогiв та красти у них речi"
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Гаряча клавiша "#key BOTON_PEGARSE_BICHO". Якщо клацнути по солдату ворога, КРАДIЙ встане позаду нього i слiдуватиме за ним.
+Вiн також може пограбувати ворога."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Для цього, наведiть курсор на солдата, за яким вiн iде.
+Клацнiть ЛКМ, щоб подивитися його iнвентар i крадiть його речi.
+Але будьте обережнi, вас можуть побачити iншi солдати.
+ENDTEXTFMT
+ENDTOKEN
+
+ESCONDER_CADAVERES
+GFX ---- Manual_OcultarCadaver Manual_OcultarCadaver.grl 223 36
+TEXTFMT ---- 0 1
+"ХОВАТИ ТIЛА ВОРОГIВ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Знищуйте докази присутностi в тилу ворога."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Ви можете ховати трупи ворогiв у високiй травi та кущах, а також кидати у воду.
+Пiднiмiть тiло, натиснувши SHIFT i клацнiть ЛКМ."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Пiдiйдiть до берега або дiлянки хащiв i клацнiть ЛКМ, утримуючи SHIFT. Так ви скинете тiло."
+ENDTEXTFMT
+ENDTOKEN
+
+SALIR_POR_VENTANA
+GFX ---- Manual_saltar_por_ventana Manual_saltar_por_ventana.grl 223 36
+TEXTFMT ---- 0 1
+"ВИЛIЗТИ ЧЕРЕЗ ВIКНО."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Вихiд iз будiвлi шляхом стрибка з вiкна."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Лише КРАДIЙ та ЗЕЛЕНИЙ БЕРЕТ можуть зробити такий подвиг.
+Щоб вийти через вiкно, натиснiть SHIFT i натиснiть на вiкно."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Командос приземлиться на землi, пiдлозi або повисне на телефонних дротах, залежно вiд того, в яке вiкно стрибне."
+ENDTEXTFMT
+ENDTOKEN
+
+SELECCION_DE_COMANDOS
+GFX ---- Manual_seleccion_de_un_commando Manual_seleccion_de_un_commando.grl 223 36
+TEXTFMT ---- 0 1
+"ВИБIР КОМАНДОС."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Вибiр найбiльш доцiльного Командос для кожного випадку."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Щоб вибрати одного з людей, натиснiть клавiшу-цифру, яка закрiплена за ним.
+Також можна клацнути ЛКМ на обличчi обраного Командос або використати вiкно вибору."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Клацнiть ПКМ та рухайте курсор, щоб з'явився прямокутник для вибору.
+Якщо натиснути 0 на клавiатурi, то можна скасувати вибiр активного Командос."
+ENDTEXTFMT
+ENDTOKEN
+
+GOLPEAR_BOTELLA
+GFX ---- Manual_GolpearBotella Manual_GolpearBotella.grl 223 36
+TEXTFMT ---- 0 1
+"УДАР ПЛЯШКОЮ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Незважаючи на свою тендiтну зовнiшнiсть, НАТАЛЯ може примусити ворогiв валятися на пiдлозi, доклавши мiнiмум зусиль."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Гаряча клавiша "#key BOTON_EMPUJAR". Виберiть удар пляшкою в роздiлi 'Зброя'.
+Клацнiть ЛКМ на противнику, якого хочете вирубити.
+Вiн стане панiкувати, коли прокинеться!
+ENDTEXTFMT
+ENDTOKEN
+
+CONDUCIR
+GFX ---- Manual_Conducir Manual_Conducir.grl 223 36
+TEXTFMT ---- 0 1
+"ВОДIННЯ МАШИН."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Всi Командос вмiють водити машини."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Натиснiть SHIFT i клацнiть ЛКМ, щоб увiйти. Опинившись всерединi, клавiшами курсору керуйте напрямком руху. Або клацнiть ЛКМ в мисцi призначення."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Утримування кнопки SHIFT прискорить машину.
+Спец. машинами може керувати лише ВОДIЙ.
+У танках використовуйте кнопку CONTROL для стрiльби зi ствола.
+Але тiльки якщо в машинi сидить САПЕР.
+ENDTEXTFMT
+ENDTOKEN
+
+DISTRAER
+GFX ---- Manual_Distraer Manual_Distraer.grl 223 36
+TEXTFMT ---- 0 1
+"ВIДВОЛIКАТИ ШПИГУНОМ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вiдволiкайте ворога, поки решта ваших людей на виконаннi завдання."
+ENDTEXTFMT
+TEXTFMT ---- 7 0
+"Гаряча клавiша "#key BOTON_INSIGNIA". Виберiть в роздiлi "Функцiя".
+Клацнiть ЛКМ на противника, якого хочете вiдволiкти. Ви можете наказати йому пiти чи дивитися на вас. Пам'ятайте, що ви повиннi бути одягненi у форму ворога."
+ENDTEXTFMT
+ENDTOKEN
+
+SEDUCCION
+GFX ---- Manual_RopaSeductora Manual_RopaSeductora.grl 223 36
+TEXTFMT ---- 0 1
+"ЗВАБЛЕННЯ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Використовуйте спокусливiсть НАТАЛI."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_DISFRAZSOLDADO". Вибрати в роздiлi 'Функцiя'.
+НАТАЛЯ не може бути розкрита ворогом.
+Сексуальне вбрання та губна помада допоможуть вiдволiкти ворога, поки солдати виконують мiсiю.
+ENDTEXTFMT
+TEXTFMT BARRA_LABIOS 22 0
+"ГУБНА ПОМАДА."
+ENDTEXTFMT
+ENDTOKEN
+
+ARPON
+GFX ---- Manual_Arpon Manual_Arpon.grl 223 36
+TEXTFMT ---- 0 1
+"ГАРПУН М1922."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Швидка та смертоносна пiдводна зброя."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_ARPON". Виберiть Гарпун в роздiлi 'Зброя'.
+Стиснене повiтря пошле гарпун на високiй швидкостi на вiдстань 15 метрiв за долi секунди."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Ця зброя може зробити ДАЙВЕРА пiдводним убивцею. Однак гарпун довго перезарядиться."
+ENDTEXTFMT
+ENDTOKEN
+
+SENYUELO
+GFX ---- Manual_senuelo Manual_senuelo.grl 223 36
+TEXTFMT ---- 0 1
+"ПРИМАНКА Philips L12."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Радiокерована приманка."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_SENUELO". Вибрати в роздiлi 'Предмети'.
+Клацнiть ЛКМ на точку карти та встановiть приманку на землi.
+Активуйте приманку клавiшею "#key BOTON_SENUELOON"."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Приманка видаватиме звуки для залучення ворожих солдатiв у радiусi чутностi. Щоб вимкнути, натиснiть "#key BOTON_SENUELOOFF" знову.
+Не забудьте пiдiбрати пастку пiсля використання - вона в тебе лише одна.
+ENDTEXTFMT
+ENDTOKEN
+
+SOPLETE
+GFX ---- Manual_soplete Manual_soplete.grl 223 36
+TEXTFMT ---- 0 1
+"КОМПАКТНИЙ АЦЕТИЛЕНОВИЙ ПАЛЬНИК."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Дуже корисний в iнженерних завданнях."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_SOPLETE". Виберiть в роздiлi 'Дiя'.
+Клацнiть ЛКМ в точцi, де хочете використати. Вiн допоможе розкрити зачиненi металевi дверi. Ацетиленовий пальник не зброя, але може послужити ним у разi потреби."
+ENDTEXTFMT
+ENDTOKEN
+
+TESTIGO
+GFX ---- Manual_testigo_de_vista Manual_testigo_de_vista.grl 223 36
+TEXTFMT ---- 0 1
+"МАРКЕР ОГЛЯДУ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використовуйте маркер для визначення того, чи входить ця точка в поле зору ворога.
+Для використання маркера тримайте клавiшу ENTER або TAB i клацнiть у потрiбнiй точцi ЛКМ."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Якщо ворог може бачити точку, увiмкнеться його поле зору.
+Потiм увiмкнуться поля зору всiх ворогiв, якi можуть бачити цю точку."
+ENDTEXTFMT
+ENDTOKEN
+
+AGACHARSE_LEVANTARSE
+GFX ---- Manual_agachar_y_levantarse Manual_agachar_y_levantarse.grl 223 36
+TEXTFMT ---- 0 1
+"ПОВЗТИ / ВСТАТИ."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Найкращий спосiб пересуватися непомiченим - повзти."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Натиснiть пробiл щоб вашi Командос повзли i вставали.
+Поки вашi люди повзуть, вони помiтнi лише у короткому радiусi поля зору ворога.
+ENDTEXTFMT
+ENDTOKEN
+
+UNIFORME_ALEMAN
+GFX ---- Manual_vestirse_de_aleman Manual_vestirse_de_aleman.grl 223 36
+TEXTFMT ---- 0 1
+"ФОРМА ВОРОГА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Гаряча клавiша "#key BOTON_DISFRAZSOLDADO". Щоб одягнути форму, клацнiть на значок форми в роздiлi 'Функцiя'.
+Щоб переодягнутися у звичайний одяг, знову клацнiть на значок ФОРМА або натиснiть гарячу клавiшу.
+Форма дозволить залишатись непомiченими в дальньому радiусi поля зору ворога.
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Якщо ви зробите щось пiдозрiле, поки ворог дивиться на вас, вас буде викрито.
+Ви можете використовувати лише форму пiхоти. Форму можна використовувати обмежений час, зазначений у iнвентарi. Поки ви носите форму, ця цифра зменшуватиметься."
+ENDTEXTFMT
+ENDTOKEN
+
+VISTAS
+GFX ---- Manual_vistas Manual_vistas.grl 223 36
+TEXTFMT ---- 0 1
+"КАМЕРА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Використання рiзних видiв камери спростить виконання мiсiй."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Ви можете вибирати рiзнi види камери клавiшами з F2 до F7."
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Для активування клацнiть на кожну камеру.
+Кожен режим камери може збiльшувати, стежити за солдатом, тощо.
+Стандартний режим - кнопка F2."
+ENDTEXTFMT
+ENDTOKEN
+
+BARRILES
+GFX ---- Manual_BarrilExplosivo Manual_BarrilExplosivo.grl 223 36
+TEXTFMT ---- 0 1
+"ДIЖКИ З ВИБУХIВКОЮ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Стрiляйте по дiжкам i буде справжнiй вибух."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Пiднiмiть дiжку за допомогою ЗЕЛЕНОГО БЕРЕТА i помiстiть поруч iз цiллю, яку хочете пiдiрвати. Вистрiлiть у дiжку, i вона вибухне."
+ENDTEXTFMT
+TEXTFMT ---- 13 0
+"Вона знищить бiльшiсть речей i всiх солдатiв поблизу, у тому числi i ваших"
+ENDTEXTFMT
+ENDTOKEN
+
+FRIO
+GFX ---- Manual_FRIO Manual_FRIO.grl 223 36
+TEXTFMT ---- 0 1
+"ЕКСТРЕМАЛЬНИЙ ХОЛОД."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Збережiть людей у сувору погоду."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Низькi температури арктичних мiсiй можуть вбити всiх ваших людей.
+Коли ваш Командос знаходяться зовнi, його IНДИКАТОР ВИТРИВАЛОСТI буде падати.
+Якщо вiн досягне нуля, то почне падати IНДИКАТОР ЖИТТЯ. Цього можна уникнути,
+надiвши АРКТИЧНИЙ КОСТЮМ Союзникiв, або вкравши ворожий костюм. Пам'ятайте,
+що ворожi костюми можна носити лише протягом обмеженого часу"
+ENDTEXTFMT
+ENDTOKEN
+
+VENTANA
+GFX ---- Manual_entrar_por_ventana Manual_entrar_por_ventana.grl 223 36
+TEXTFMT ---- 0 1
+"ВIКНА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Ви можете дивитися у вiкна будiвель, щоб дiзнатися, чи безпечно всерединi."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Виберiть ОГЛЯД i натиснiть ЛКМ на вiкно.
+З'явиться маленький екран, де буде показано примiщення зсередини. Повертайте його мишею.
+ENDTEXTFMT
+TEXTFMT ---- 15 0
+"Якщо у вiкно дивиться Крадiй, клацнiть ЛКМ i вiн залiзе всередину."
+ENDTEXTFMT
+ENDTOKEN
+
+TABACO
+GFX ---- Manual_tabaco Manual_tabaco.grl 223 36
+TEXTFMT ---- 0 1
+"СИГАРЕТИ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Iмпортнi сигарети."
+ENDTEXTFMT
+TEXTFMT ---- 4 0
+"Гаряча клавiша "#key BOTON_TABACO". Виберiть предмет у роздiлi 'Предмети'.
+Клацнiть на точку, куди треба кинути сигарети.
+Коли солдат ворога побачить цигарки, вiн пiдiйде та пiднiме пачку.
+Ви можете знайти пачки сигарет на трупах деяких ворогiв."
+ENDTEXTFMT
+ENDTOKEN
+
+MOLOTOV
+GFX ---- Manual_Molotov Manual_Molotov.grl 223 36
+TEXTFMT ---- 0 1
+"БАНДЕРА СМУЗI"
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Дуже корисний проти патрулiв та у засiдцi."
+ENDTEXTFMT
+TEXTFMT ---- 5 0
+"Гаряча клавiша "#key BOTON_MOLOTOV". Може бути обраний у роздiлi 'Зброя'.
+Вогняний спалах знищить усiх ворожих солдатiв навколо.
+Смузi можна знайти в шафах та коробках. Використовуйте розумно, кiлькiсть обмежена."
+ENDTEXTFMT
+ENDTOKEN
+
+ARROJAR_BOTELLA
+GFX ---- Manual_ArrojarBotella Manual_ArrojarBotella.grl 223 36
+TEXTFMT ---- 0 1
+"КИНУТИ ПЛЯШКУ."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вiдволiкання ворогiв."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Гаряча клавiша "#key BOTON_BOTELLA_NARCOTIZADA". Виберiть в роздiлi 'Предмети'.
+Ворожi солдати не можуть вiдмовитись вiд доброго вина. Коли вони його вип'ють, то на певний час будуть оглушенi.
+Якщо у пляшку пiдсипати наркотик, то вороги спатимуть, поки його не розбудить товариш."
+ENDTEXTFMT
+ENDTOKEN
+
+NARCOTICOS
+GFX ---- Manual_Narcoticos Manual_Narcoticos.grl 223 36
+TEXTFMT ---- 0 1
+"СНОДIЙНА СПОЛУКА MKIV-R."
+ENDTEXTFMT
+TEXTFMT ---- 3 0
+"Швидкодiючий потужний наркотик."
+ENDTEXTFMT
+TEXTFMT ---- 8 0
+"Гаряча клавiша "#key BOTON_NARCOTICOS". Виберiть в роздiлi 'Дiя'.
+Може використовуватися з вином та шматками м'яса. Якщо солдат ворога прийме таке вино, або тварина куштуватиме таке м'ясо, то вони заснуть."
+ENDTEXTFMT
+ENDTOKEN
+
+GRANADA_GAS
+GFX ---- Manual_BombaHumo Manual_BombaHumo.grl 223 36
+TEXTFMT ---- 0 1
+"ГАЗОВА ГРАНАТА."
+ENDTEXTFMT
+TEXTFMT ---- 2 0
+"Вирубить, не вбиваючи, солдат ворога."
+ENDTEXTFMT
+TEXTFMT ---- 6 0
+"Гаряча клавiша "#key BOTON_BOMBA_GAS". Киньте газову гранату в групу ворогiв i вони
+вiдключаться. Ворга можна буде зв'язати та обшукати. Вам треба буде дiяти швидко, тому що ефект
+буде недовгим.
+ENDTEXTFMT
+ENDTOKEN
