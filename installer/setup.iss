@@ -11,6 +11,7 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{D4383D48-BF6A-4623-9FA6-29F2115E04AD}
 AppName={#MyAppName}
+VersionInfoDescription=Ця версія української локалізації для гри Commandos 2 Men of Courage. У грі виберіть англійську мову щоб отримати українську локалізацію. Встановлюйте на чисту версію гри, без попередніх модифікацій.
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
