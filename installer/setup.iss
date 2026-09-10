@@ -28,6 +28,7 @@ WizardStyle=modern dynamic
 WizardImageFile=D:\a\Comm2Ukr\Comm2Ukr\installer\image.bmp
 ; Set to 'yes' to scale the image, or 'no' if you provided a perfectly sized BMP
 WizardImageStretch=yes
+AppendDefaultDirName=no
 
 [Messages]
 WelcomeLabel1=Вітаємо в майстрі встановлення {#MyAppName}!
