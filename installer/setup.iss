@@ -11,12 +11,12 @@
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{D4383D48-BF6A-4623-9FA6-29F2115E04AD}
 AppName={#MyAppName}
-VersionInfoDescription=Ця версія української локалізації для гри Commandos 2 Men of Courage. У грі виберіть англійську мову щоб отримати українську локалізацію. Встановлюйте на чисту версію гри, без попередніх модифікацій.
 AppVersion={#MyAppVersion}
 ;AppVerName={#MyAppName} {#MyAppVersion}
 AppPublisher={#MyAppPublisher}
 DefaultDirName=C:\Program Files (x86)\Steam\steamapps\common\Commandos 2 Men of Courage
 DisableDirPage=no
+DisableWelcomePage=no
 ;DefaultGroupName={#MyAppName}
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
@@ -25,6 +25,10 @@ OutputDir=Output
 SetupIconFile=D:\a\Comm2Ukr\Comm2Ukr\installer\installer.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
+
+[Messages]
+WelcomeLabel1=Вітаємо в майстрі встановлення {#MyAppName}!
+WelcomeLabel2=Ця версія української локалізації для гри Commandos 2 Men of Courage. %n%nУ грі виберіть англійську мову щоб отримати українську локалізацію. %n%nВстановлюйте на чисту версію гри, без попередніх модифікацій.
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
